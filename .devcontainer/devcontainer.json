@@ -1,0 +1,10 @@
+{
+  "image": "rocker/tidyverse:4.3.0",
+  "portsAttributes": {
+    "3838": {
+      "label": "Shiny App",
+      "onAutoForward": "openPreview"
+    }
+  },
+  "postCreateCommand": "R -e 'install.packages(c(\"shiny\", \"dplyr\", \"igraph\", \"visNetwork\", \"leaflet\", \"shinyjs\"))'"
+}

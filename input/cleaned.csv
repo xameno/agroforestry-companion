@@ -1,0 +1,3147 @@
+siteID,country,species,commonName,category
+1,Portugal,Cereals,Cereals,Forbs
+1,Portugal,Quercus suber,Cork Oak,Trees
+1,Portugal,Cows,Cows,Animals
+1,Portugal,Quercus ilex,Holm Oak,Trees
+1,Portugal,Pigs,Pigs,Animals
+1,Portugal,Castanea sativa,Sweet Chestnut,Trees
+2,Portugal,Hordeum vulgare,Barley,Forbs
+2,Portugal,Cattle,Cattle,Animals
+2,Portugal,Quercus suber,Cork Oak,Trees
+2,Portugal,Goats,Goats,Animals
+2,Portugal,Quercus ilex,Holm Oak,Trees
+2,Portugal,Horses,Horses,Animals
+2,Portugal,Improved pastures,Improved pastures,Forbs
+2,Portugal,Natural pastures,Natural pastures,Forbs
+2,Portugal,Avena sativa,Oats,Forbs
+2,Portugal,Pigs,Pigs,Animals
+2,Portugal,Sheep,Sheep,Animals
+2,Portugal,Sown pastures,Sown pastures,Forbs
+2,Portugal,Pinus pinea,Stone Pine,Trees
+2,Portugal,Helianthus annuus,Sunflower,Forbs
+17,Switzerland,Triticum aestivum,Common Wheat,Forbs
+3,UK,Ash,Ash,Trees
+3,UK,Cattle,Cattle,Animals
+3,UK,Deer,Deer,Animals
+3,UK,Fagus sylvatica,European Beech,Trees
+3,UK,Carpinus betulus,European Hornbeam,Trees
+3,UK,Grass,Grass,Forbs
+3,UK,Horses,Horses,Animals
+3,UK,Quercus robur,Pedunculate Oak,Trees
+3,UK,Quercus petraea,Sessile Oak,Trees
+3,UK,Sheep,Sheep,Animals
+4,Greece,Goats,Goats,Animals
+4,Greece,Sheep,Sheep,Animals
+4,Greece,Quercus ithaburensis,Tabor Oak,Trees
+5,Germany,Medicago sativa,Alfalfa,Forbs
+5,Germany,Hordeum vulgare,Barley,Forbs
+5,Germany,Zea mays,Maize,Forbs
+5,Germany,Populus spp.,Poplar,Trees
+28,UK,Alnus spp.,Alder (general),Trees
+5,Germany,Secale cereale,Rye,Forbs
+5,Germany,x Triticosecale,Triticale,Forbs
+23,Spain,Triticum aestivum,Common Wheat,Forbs
+5,Germany,Salix spp.,Willow,Trees
+6,Portugal,Laurus nobilis,Bay Laurel,Trees
+7,UK,Alnus cordata,Italian Alder,Trees
+6,Portugal,Ruscus aculeatus,Butcher's-broom,Trees
+6,Portugal,Crataegus monogyna,Common Hawthorn,Trees
+6,Portugal,Rosa canina,Dog Rose,Trees
+6,Portugal,Ulmus procera,English Elm,Trees
+6,Portugal,Fraxinus excelsior,European Ash,Trees
+6,Portugal,Malus sylvestris,European Crab Apple,Trees
+6,Portugal,Celtis australis,European Nettle Tree,Trees
+6,Portugal,Ulmus minor,Field Elm,Trees
+6,Portugal,Daphne gnidium,Flax-leaved Daphne,Trees
+6,Portugal,Goats,Goats,Animals
+6,Portugal,Quercus ilex,Holm Oak,Trees
+6,Portugal,Improved pastures,Improved pastures,Forbs
+6,Portugal,Acer monspessulanum,Montpellier Maple,Trees
+6,Portugal,Fraxinus angustifolia,Narrow-leaved Ash,Trees
+6,Portugal,Natural pastures,Natural pastures,Forbs
+6,Portugal,Quercus pyrenaica,Pyrenean Oak,Trees
+6,Portugal,Pyrus bourgaena,Pyrus bourgaena,Trees
+6,Portugal,Sheep,Sheep,Animals
+6,Portugal,Arbutus unedo,Strawberry Tree,Trees
+6,Portugal,Pistacia terebinthus,Terebinth,Trees
+6,Portugal,Salix alba,White Willow,Trees
+7,UK,Malus domestica,Apple,Trees
+7,UK,Hordeum vulgare,Barley,Forbs
+7,UK,Beans,Beans,Forbs
+7,UK,Trifolium spp.,Clover,Forbs
+7,UK,Fraxinus excelsior,European Ash,Trees
+7,UK,Carpinus betulus,European Hornbeam,Trees
+69,UK,Alnus cordata,Italian Alder,Trees
+7,UK,Avena sativa,Oats,Forbs
+7,UK,Solanum tuberosum,Potatoes,Forbs
+7,UK,Quercus petraea,Sessile Oak,Trees
+7,UK,Tilia cordata,Small-leaved Lime,Trees
+7,UK,Squashes,Squashes,Forbs
+7,UK,Acer pseudoplatanus,Sycamore Maple,Trees
+7,UK,Vegetables,Vegetables,Forbs
+24,Portugal,Triticum aestivum,Common Wheat,Forbs
+7,UK,Prunus avium,Wild Cherry,Trees
+8,Switzerland,Cornus mas,Cornelian Cherry,Shrubs
+8,Switzerland,Gourd,Gourd,Forbs
+8,Switzerland,Peas,Peas,Forbs
+8,Switzerland,Rhubarb,Rhubarb,Forbs
+8,Switzerland,Rosa rugosa,Rugosa Rose,Shrubs
+8,Switzerland,Hippophae spp.,Sea-buckthorn,Shrubs
+8,Switzerland,Vegetables,Vegetables,Forbs
+8,Switzerland,Prunus avium,Wild Cherry,Trees
+9,France,Juglans nigra,Black Walnut,Trees
+9,France,Triticum turgidum,Durum Wheat,Forbs
+9,France,Pisum sativum,Pea,Forbs
+9,France,Juglans regia,Persian Walnut,Trees
+9,France,Populus spp.,Poplar,Trees
+96,Belgium,Cormus domestica,Service Tree,Trees
+10,UK,Malus domestica,Apple,Trees
+10,UK,Grass,Grass,Forbs
+10,UK,Sheep,Sheep,Animals
+11,Italy,Asparagus spp.,Asparagus,Forbs
+11,Italy,Chicken,Chicken,Animals
+11,Italy,Grass,Grass,Forbs
+11,Italy,Olea europaea,Olive,Trees
+12,Greece,Hordeum vulgare,Barley,Forbs
+12,Greece,Vicia sativa,Common Vetch,Forbs
+12,Greece,Olea europaea,Olive,Trees
+12,Greece,Sheep,Sheep,Animals
+13,Greece,Aromatic plants,Aromatic plants,Forbs
+13,Greece,Olea europaea,Olive,Trees
+13,Greece,Pisum sativum,Pea,Forbs
+13,Greece,Sheep,Sheep,Animals
+37,Greece,Triticum aestivum,Common Wheat,Forbs
+14,Spain,Juglans major,Arizona Walnut,Trees
+14,Spain,Juglans nigra,Black Walnut,Trees
+14,Spain,Herbaceous strata,Herbs,Forbs
+14,Spain,Sheep,Sheep,Animals
+15,Greece,Aromatic plants,Aromatic plants,Forbs
+15,Greece,Chicken,Chicken,Animals
+15,Greece,Phaseolus vulgaris,Common Bean,Forbs
+15,Greece,Solanum tuberosum,Potatoes,Forbs
+15,Greece,Citrus sinensis,Sweet Orange,Trees
+55,France,Triticum aestivum,Common Wheat,Forbs
+16,Portugal,Goats,Goats,Animals
+16,Portugal,Natural pastures,Natural pastures,Forbs
+16,Portugal,Sheep,Sheep,Animals
+16,Portugal,Castanea sativa,Sweet Chestnut,Trees
+17,Switzerland,Malus domestica,Apple,Trees
+17,Switzerland,Flowers,Flowers,Forbs
+17,Switzerland,Fragaria x ananassa,Garden Strawberry,Forbs
+17,Switzerland,Brassica napus,Rapeseed,Forbs
+65,France,Triticum aestivum,Common Wheat,Forbs
+18,Switzerland,Populus tremula,European Aspen,Trees
+18,Switzerland,Secale cereale,Rye,Forbs
+19,UK,Malus domestica,Apple,Trees
+19,UK,Hordeum vulgare,Barley,Forbs
+19,UK,Salix viminalis,Common Osier,Trees
+19,UK,Corylus avellana,European Hazel,Trees
+19,UK,Avena sativa,Oats,Forbs
+68,UK,Triticum aestivum,Common Wheat,Forbs
+20,Germany,Medicago sativa,Alfalfa,Forbs
+20,Germany,Hordeum vulgare,Barley,Forbs
+20,Germany,Robinia pseudoacacia,Black Locust,Trees
+20,Germany,Lupine,Lupine,Forbs
+20,Germany,Zea mays,Maize,Forbs
+20,Germany,Avena sativa,Oats,Forbs
+20,Germany,Populus spp.,Poplar,Trees
+20,Germany,Solanum tuberosum,Potatoes,Forbs
+20,Germany,Secale cereale,Rye,Forbs
+20,Germany,Secale multicaule,African rye,Forbs
+20,Germany,Beta vulgaris,Sugar Beet,Forbs
+20,Germany,x Triticosecale,Triticale,Forbs
+70,UK,Triticum aestivum,Common Wheat,Forbs
+21,Italy,Medicago sativa,Alfalfa,Forbs
+21,Italy,Hordeum vulgare,Barley,Forbs
+21,Italy,Populus nigra,Black Poplar,Trees
+21,Italy,Trifolium spp.,Clover,Forbs
+21,Italy,Populus x canadensis,Hybrid Poplar,Trees
+21,Italy,Zea mays,Maize,Forbs
+21,Italy,Sheep,Sheep,Animals
+21,Italy,Glycine max,Soybean,Forbs
+21,Italy,Helianthus annuus,Sunflower,Forbs
+71,UK,Triticum aestivum,Common Wheat,Forbs
+21,Italy,Populus alba,White Poplar,Trees
+22,Greece,Hordeum vulgare,Barley,Forbs
+22,Greece,Phaseolus vulgaris,Common Bean,Forbs
+22,Greece,Juglans regia,Persian Walnut,Trees
+22,Greece,Populus clones,Poplar,Trees
+22,Greece,Sheep,Sheep,Animals
+73,Belgium,Triticum aestivum,Common Wheat,Forbs
+23,Spain,Barley,Barley,Forbs
+23,Spain,Corn,Corn,Forbs
+23,Spain,Triticale,Triticale,Forbs
+23,Spain,Juglans clones,Walnut,Trees
+76,Belgium,Triticum aestivum,Common Wheat,Forbs
+23,Spain,Prunus avium,Wild Cherry,Trees
+24,Portugal,Barley,Barley,Forbs
+24,Portugal,Corn,Corn,Forbs
+24,Portugal,Triticale,Triticale,Forbs
+24,Portugal,Juglans clones,Walnut,Trees
+78,Belgium,Triticum aestivum,Common Wheat,Forbs
+24,Portugal,Prunus avium,Wild Cherry,Trees
+25,Portugal,Cows,Cows,Animals
+25,Portugal,Leguminous species,Legumes,Forbs
+25,Portugal,Sheep,Sheep,Animals
+25,Portugal,Eucalyptus globulus,Tasmanian Blue Gum,Trees
+26,Denmark,Grass clover,Grass clover,Forbs
+26,Denmark,Pigs,Pigs,Animals
+26,Denmark,Poplar,Poplar,Trees
+27,France,Grass,Grass,Forbs
+27,France,Sophora japonica,Japanese Pagoda Tree,Trees
+27,France,Acer platanoides,Norway Maple,Trees
+27,France,Juglans regia,Persian Walnut,Trees
+27,France,Paulownia tomentosa,Princess Tree,Trees
+27,France,Sheep,Sheep,Animals
+27,France,Gleditsia inermis,Thornless Honeylocust,Trees
+27,France,Prunus avium,Wild Cherry,Trees
+6,Portugal,Alnus glutinosa,Black Alder,Trees
+28,UK,Aspen,Aspen,Trees
+28,UK,Birch,Birch,Trees
+28,UK,Chicken,Chicken,Animals
+28,UK,Cocksfoot sward,Cocksfoot sward,Forbs
+28,UK,Field maple,Field Maple,Trees
+28,UK,Hornbeam,Hornbeam,Trees
+28,UK,Oak,Oak,Trees
+28,UK,Lolium perenne,Perennial ryegrass,Forbs
+28,UK,Rowan,Rowan,Trees
+28,UK,Wild cherry,Wild Cherry,Trees
+28,UK,Willow,Willow,Trees
+29,UK,Alnus glutinosa,Black Alder,Trees
+29,UK,Cattle,Cattle,Animals
+29,UK,Cocksfoot,Cocksfoot,Forbs
+29,UK,Salix viminalis,Common Osier,Trees
+29,UK,Lolium perenne,Perennial ryegrass,Forbs
+30,Portugal,Cattle,Cattle,Animals
+30,Portugal,Gleditsia triacanthos,Honeylocust,Trees
+30,Portugal,Improved pastures,Improved pastures,Forbs
+30,Portugal,Natural pastures,Natural pastures,Forbs
+30,Portugal,Sheep,Sheep,Animals
+31,Portugal,Ceratonia siliqua,Carob,Trees
+31,Portugal,Goats,Goats,Animals
+31,Portugal,Sheep,Sheep,Animals
+32,UK,Malus domestica,Apple,Trees
+32,UK,Lolium perenne,Perennial ryegrass,Forbs
+32,UK,Sheep,Sheep,Animals
+33,UK,Malus domestica,Apple,Trees
+33,UK,Lolium perenne,Perennial ryegrass,Forbs
+33,UK,Sheep,Sheep,Animals
+34,France,Malus domestica,Apple,Trees
+34,France,Lolium perenne,Perennial ryegrass,Forbs
+34,France,Sheep,Sheep,Animals
+35,France,Cows,Cows,Animals
+35,France,Fraxinus excelsior,European Ash,Trees
+35,France,Grass,Grass,Forbs
+35,France,Sheep,Sheep,Animals
+36,Greece,Cereals,Cereals,Forbs
+36,Greece,Cicer arietinum,Chickpea,Forbs
+36,Greece,Grapevine,Grapevine,Forbs
+36,Greece,Grass,Grass,Forbs
+36,Greece,Zea mays,Maize,Forbs
+36,Greece,Olea europaea,Olive,Trees
+36,Greece,Sheep,Sheep,Animals
+36,Greece,Vegetables,Vegetables,Forbs
+37,Greece,Pinus halepensis,Aleppo Pine,Trees
+37,Greece,Barley,Barley,Forbs
+37,Greece,Olea europaea,Olive,Trees
+37,Greece,Pyrus spp.,Pear,Trees
+81,Belgium,Triticum aestivum,Common Wheat,Forbs
+38,Greece,Cicer arietinum,Chickpea,Forbs
+38,Greece,Citrus sinensis,Sweet Orange,Trees
+38,Greece,Vegetables,Vegetables,Forbs
+39,Italy,Narcissus,Narcissus,Forbs
+39,Italy,Olea europaea,Olive,Trees
+39,Italy,Tulipa,Tulipa,Forbs
+39,Italy,Asparagus acutifolius,Wild Asparagus,Forbs
+40,Spain,Juglans major,Arizona Walnut,Trees
+40,Spain,Grass,Grass,Forbs
+40,Spain,Juglans regia,Persian Walnut,Trees
+40,Spain,Sheep,Sheep,Animals
+41,Spain,Rubus fruticosus,Blackberry,Forbs
+41,Spain,Pteridium spp.,Bracken,Forbs
+41,Spain,Ulex spp.,Gorse,Forbs
+41,Spain,Mushrooms,Mushrooms,Forbs
+41,Spain,Pigs,Pigs,Animals
+41,Spain,Castanea sativa,Sweet Chestnut,Trees
+42,Portugal,Cattle,Cattle,Animals
+42,Portugal,Quercus ilex,Holm Oak,Trees
+42,Portugal,Natural pastures,Natural pastures,Forbs
+42,Portugal,Shrubs,Shrubs,Shrubs
+43,Portugal,Cattle,Cattle,Animals
+43,Portugal,Quercus ilex,Holm Oak,Trees
+43,Portugal,Natural pastures,Natural pastures,Forbs
+44,Portugal,Goats,Goats,Animals
+44,Portugal,Quercus ilex,Holm Oak,Trees
+44,Portugal,Natural pastures,Natural pastures,Forbs
+44,Portugal,Sheep,Sheep,Animals
+44,Portugal,Sown pastures,Sown pastures,Forbs
+45,Portugal,Quercus ilex,Holm Oak,Trees
+45,Portugal,Natural pastures,Natural pastures,Forbs
+45,Portugal,Pigs,Pigs,Animals
+45,Portugal,Sheep,Sheep,Animals
+46,Portugal,Cattle,Cattle,Animals
+46,Portugal,Quercus ilex,Holm Oak,Trees
+46,Portugal,Natural pastures,Natural pastures,Forbs
+46,Portugal,Shrubs,Shrubs,Shrubs
+47,Portugal,Cereals,Cereals,Forbs
+47,Portugal,Quercus ilex,Holm Oak,Trees
+47,Portugal,Natural pastures,Natural pastures,Forbs
+47,Portugal,Pigs,Pigs,Animals
+47,Portugal,Sheep,Sheep,Animals
+48,Portugal,Calves,Calves,Animals
+48,Portugal,Cows,Cows,Animals
+48,Portugal,Quercus ilex,Holm Oak,Trees
+48,Portugal,Natural pastures,Natural pastures,Forbs
+48,Portugal,Pigs,Pigs,Animals
+49,Portugal,Cattle,Cattle,Animals
+49,Portugal,Natural pastures,Natural pastures,Forbs
+49,Portugal,Quercus pyrenaica,Pyrenean Oak,Trees
+49,Portugal,Shrubs,Shrubs,Shrubs
+49,Portugal,Sown pastures,Sown pastures,Forbs
+50,Portugal,Cattle,Cattle,Animals
+50,Portugal,Quercus suber,Cork Oak,Trees
+50,Portugal,Quercus ilex,Holm Oak,Trees
+50,Portugal,Natural pastures,Natural pastures,Forbs
+50,Portugal,Sown pastures,Sown pastures,Forbs
+51,Portugal,Cattle,Cattle,Animals
+51,Portugal,Quercus ilex,Holm Oak,Trees
+51,Portugal,Natural pastures,Natural pastures,Forbs
+51,Portugal,Sown pastures,Sown pastures,Forbs
+52,Portugal,Quercus ilex,Holm Oak,Trees
+52,Portugal,Natural pastures,Natural pastures,Forbs
+52,Portugal,Sheep,Sheep,Animals
+52,Portugal,Sown pastures,Sown pastures,Forbs
+53,Greece,Cows,Cows,Animals
+53,Greece,Goats,Goats,Animals
+53,Greece,Grass,Grass,Forbs
+53,Greece,Pigs,Pigs,Animals
+53,Greece,Sheep,Sheep,Animals
+53,Greece,Quercus ithaburensis,Tabor Oak,Trees
+54,Italy,Cattle,Cattle,Animals
+54,Italy,Dactylis glomerata,Cocksfoot,Forbs
+54,Italy,Quercus suber,Cork Oak,Trees
+54,Italy,Quercus pubescens,Downy Oak,Trees
+54,Italy,Quercus ilex,Holm Oak,Trees
+54,Italy,Medics,Medics,Forbs
+54,Italy,Lolium perenne,Perennial ryegrass,Forbs
+54,Italy,Sheep,Sheep,Animals
+54,Italy,Subclovers,Subclovers,Forbs
+55,France,Barley,Barley,Forbs
+55,France,Alnus glutinosa,Black Alder,Trees
+55,France,Cattle,Cattle,Animals
+55,France,Fraxinus excelsior,European Ash,Trees
+55,France,Fagus sylvatica,European Beech,Trees
+55,France,Grass,Grass,Forbs
+55,France,Zea mays,Maize,Forbs
+55,France,Quercus robur,Pedunculate Oak,Trees
+55,France,Pigs,Pigs,Animals
+55,France,Poultry,Poultry,Animals
+55,France,Castanea sativa,Sweet Chestnut,Trees
+87,Belgium,Triticum aestivum,Common Wheat,Forbs
+56,UK,Betula spp.,Birch,Trees
+56,UK,Alnus glutinosa,Black Alder,Trees
+56,UK,Cattle,Cattle,Animals
+56,UK,Deer,Deer,Animals
+56,UK,Fagus sylvatica,European Beech,Trees
+56,UK,Corylus avellana,European Hazel,Trees
+56,UK,Grass,Grass,Forbs
+56,UK,Herbaceous species,Herbs,Forbs
+56,UK,Quercus robur,Pedunculate Oak,Trees
+56,UK,Pinus sylvestris,Scots Pine,Trees
+56,UK,Quercus petraea,Sessile Oak,Trees
+56,UK,Sheep,Sheep,Animals
+56,UK,Shrubs,Shrubs,Shrubs
+56,UK,Shrubs,Shrubs,Shrubs
+56,UK,Castanea sativa,Sweet Chestnut,Trees
+57,Germany,Alnus glutinosa,Black Alder,Trees
+57,Germany,Prunus padus,Bird Cherry,Trees
+66,Netherlands,Alnus glutinosa,Black Alder,Trees
+57,Germany,Populus nigra,Black Poplar,Trees
+57,Germany,Rubus fruticosus,Blackberry,Shrubs
+57,Germany,Rhamnus cathartica,Buckthorn,Shrubs
+57,Germany,Cattle,Cattle,Animals
+57,Germany,Humulus lupulus,Common Hop,Shrubs
+57,Germany,Rosa canina,Dog Rose,Shrubs
+57,Germany,Fraxinus excelsior,European Ash,Trees
+57,Germany,Viburnum opulus,Guelder-rose,Shrubs
+57,Germany,Rhamnus alaternus,Italian Buckthorn,Shrubs
+57,Germany,Quercus robur,Pedunculate Oak,Trees
+57,Germany,Quercus petraea,Sessile Oak,Trees
+57,Germany,Salix spp.,Willow,Trees
+57,Germany,Ulmus glabra,Wych Elm,Trees
+58,Hungary,Prunus spinosa,Blackthorn,Shrubs
+58,Hungary,Crataegus monogyna,Common Hawthorn,Shrubs
+58,Hungary,Juniperus communis,Common Juniper,Shrubs
+58,Hungary,Rosa caninia,Dog Rose,Shrubs
+58,Hungary,Fagus sylvatica,European Beech,Trees
+58,Hungary,Carpinus betulus,European Hornbeam,Trees
+58,Hungary,Acer campestre,Field Maple,Trees
+58,Hungary,Tilia spp.,Lime,Trees
+58,Hungary,Fraxinus angustifolia,Narrow-leaved Ash,Trees
+58,Hungary,Quercus robur,Pedunculate Oak,Trees
+58,Hungary,Populus spp.,Poplar,Trees
+104,Germany,Cormus domestica,Service Tree,Trees
+58,Hungary,Quercus cerris,Turkey Oak,Trees
+58,Hungary,Pyrus pyraster,Wild Pear,Trees
+58,Hungary,Salix spp.,Willow,Trees
+59,Romania,Fagus sylvatica,European Beech,Trees
+59,Romania,Carpinus betulus,European Hornbeam,Trees
+59,Romania,Pyrus communis,Pear,Trees
+59,Romania,Quercus robur,Pedunculate Oak,Trees
+59,Romania,Quercus petraea,Sessile Oak,Trees
+59,Romania,Sheep,Sheep,Animals
+59,Romania,Pyrus pyraster,Wild Pear,Trees
+60,Sweden,Vaccinium myrtillus,Bilberry,Forbs
+60,Sweden,Betula spp.,Birch,Trees
+60,Sweden,Empetrum spp.,Crowberry,Forbs
+60,Sweden,Populus tremula,European Aspen,Trees
+60,Sweden,Grass,Grass,Forbs
+60,Sweden,Herbs,Herbs,Forbs
+60,Sweden,Horsetail,Horsetail,Forbs
+60,Sweden,Vaccinium vitis-idaea,Lingonberry,Forbs
+60,Sweden,Pinus contorta,Lodgepole Pine,Trees
+60,Sweden,Picea abies,Norway Spruce,Trees
+60,Sweden,Reindeer,Reindeer,Animals
+60,Sweden,Pinus sylvestris,Scots Pine,Trees
+60,Sweden,Sedge,Sedge,Forbs
+61,Netherlands,Apple,Apple,Trees
+61,Netherlands,Cherry,Cherry,Trees
+61,Netherlands,Chicken,Chicken,Animals
+61,Netherlands,Grass,Grass,Forbs
+61,Netherlands,Weeds,Weeds,Forbs
+61,Netherlands,Grass clover,Grass clover,Forbs
+61,Netherlands,Pear,Pear,Trees
+61,Netherlands,Prunes,Plum,Trees
+62,UK,Pinus nigra,Austrian Pine,Trees
+62,UK,Chicken,Chicken,Animals
+62,UK,Clover,Clover,Forbs
+62,UK,Pseudotsuga menziesii,Douglas Fir,Trees
+62,UK,Ducks,Ducks,Animals
+62,UK,Fraxinus excelsior,European Ash,Trees
+62,UK,Geese,Geese,Animals
+62,UK,Grass,Grass,Forbs
+62,UK,Quercus robur,Pedunculate Oak,Trees
+62,UK,Betula pendula,Silver Birch,Trees
+62,UK,Turkeys,Turkeys,Animals
+62,UK,Thuja plicata,Western Red Cedar,Trees
+62,UK,Prunus avium,Wild Cherry,Trees
+63,Italy,Hordeum vulgare,Barley,Forbs
+63,Italy,Robinia pseudoacacia,Black Locust,Trees
+63,Italy,Carpinus betulus,European Hornbeam,Trees
+63,Italy,Grass,Grass,Forbs
+63,Italy,Zea mays,Maize,Forbs
+63,Italy,Acer spp.,Maple,Trees
+63,Italy,Quercus spp.,Oak,Trees
+63,Italy,Peas,Peas,Forbs
+63,Italy,Pigs,Pigs,Animals
+63,Italy,Poplar,Poplar,Trees
+63,Italy,Sorghum,Sorghum,Forbs
+63,Italy,Castanea sativa,Sweet Chestnut,Trees
+63,Italy,Triticale,Triticale,Forbs
+63,Italy,Willow,Willow,Trees
+64,Denmark,Grass clover,Grass clover,Forbs
+64,Denmark,Pigs,Pigs,Animals
+64,Denmark,Poplar,Poplar,Trees
+64,Denmark,Willow,Willow,Trees
+65,France,Ash,Ash,Trees
+65,France,Cattle,Cattle,Animals
+65,France,Colza,Colza,Forbs
+65,France,Grass,Grass,Forbs
+65,France,Zea mays,Maize,Forbs
+65,France,Juglans regia,Persian Walnut,Trees
+65,France,Sorghum,Sorghum,Forbs
+99,Belgium,Triticum aestivum,Common Wheat,Forbs
+65,France,Morus alba,White Mulberry,Trees
+65,France,Prunus avium,Wild Cherry,Trees
+67,UK,Alnus glutinosa,Black Alder,Trees
+66,Netherlands,Cattle,Cattle,Animals
+66,Netherlands,Salix viminalis,Common Osier,Trees
+66,Netherlands,Lolium perenne,Perennial ryegrass,Forbs
+71,UK,Alnus glutinosa,Black Alder,Trees
+67,UK,Cattle,Cattle,Animals
+67,UK,Salix viminalis,Common Osier,Trees
+67,UK,Corylus avellana,European Hazel,Trees
+67,UK,Lolium perenne,Perennial ryegrass,Forbs
+67,UK,Populus spp.,Poplar,Trees
+196,Belgium,Alnus glutinosa,Black Alder,Trees
+68,UK,Malus domestica,Apple,Trees
+68,UK,Aromatic plants,Aromatic plants,Forbs
+68,UK,Prunus padus,Bird Cherry,Trees
+68,UK,Morus nigra,Black Mulberry,Trees
+68,UK,Juglans nigra,Black Walnut,Trees
+68,UK,Prunus spinosa,Blackthorn,Shrubs
+68,UK,Crataegus monogyna,Common Hawthorn,Shrubs
+68,UK,Juniperus communis,Common Juniper,Shrubs
+68,UK,Cornus spp.,Dogwood,Shrubs
+68,UK,Betula pubescens,Downy Birch,Trees
+68,UK,Sambucus nigra,Elder,Shrubs
+68,UK,Populus tremula,European Aspen,Trees
+68,UK,Malus sylvestris,European Crab Apple,Trees
+68,UK,Corylus avellana,European Hazel,Shrubs
+68,UK,Carpinus betulus,European Hornbeam,Trees
+68,UK,Taxus baccata,European Yew,Trees
+68,UK,Field grass,Field grass,Forbs
+68,UK,Acer campestre,Field Maple,Trees
+68,UK,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+68,UK,Salix caprea,Goat Willow,Shrubs
+68,UK,Ilex aquifolium,Holly,Shrubs
+68,UK,Tilia spp.,Lime,Trees
+68,UK,Medicinal plants,Medicinal plants,Forbs
+68,UK,Pyrus communis,Pear,Trees
+68,UK,Prunus domestica,Plum,Trees
+68,UK,Quercus petraea,Sessile Oak,Trees
+68,UK,Betula pendula,Silver Birch,Trees
+68,UK,Castanea sativa,Sweet Chestnut,Trees
+68,UK,Vegetables,Vegetables,Forbs
+105,Germany,Triticum aestivum,Common Wheat,Forbs
+68,UK,Prunus avium,Wild Cherry,Trees
+68,UK,Salix spp.,Willow,Trees
+69,UK,Malus domestica,Apple,Trees
+69,UK,Carpinus betulus,European Hornbeam,Trees
+69,UK,Acer campestre,Field Maple,Trees
+209,Belgium,Alnus glutinosa,Black Alder,Trees
+69,UK,Quercus robur,Pedunculate Oak,Trees
+69,UK,Prunus domestica,Plum,Trees
+69,UK,Solanum tuberosum,Potatoes,Forbs
+69,UK,Betula lenta,Sweet Birch,Trees
+69,UK,Vegetables,Vegetables,Forbs
+69,UK,Sorbus aria,Whitebeam,Trees
+70,UK,Prunus amygdalus,Almond,Trees
+70,UK,Malus domestica,Apple,Trees
+70,UK,Elaeagnus umbellata,Autumn Olive,Shrubs
+70,UK,Morus nigra,Black Mulberry,Trees
+70,UK,Juglans nigra,Black Walnut,Trees
+70,UK,Vaccinium spp.,Blueberry,Shrubs
+70,UK,Ficus carica,Common Fig,Trees
+70,UK,Ribes spp.,Currant,Shrubs
+70,UK,Sambucus nigra,Elder,Shrubs
+70,UK,Field grass,Field grass,Forbs
+70,UK,Flowers,Flowers,Forbs
+70,UK,Juglans ailantifolia,Japanese Walnut,Trees
+70,UK,Rubus phoenicolasius,Japanese Wineberry,Trees
+70,UK,Avena sativa,Oats,Forbs
+70,UK,Ornamental plants,Ornamental plants,Forbs
+70,UK,Prunus persica,Peach,Trees
+70,UK,Pyrus communis,Pear,Trees
+70,UK,Carya illinoinensis,Pecan,Trees
+70,UK,Rubus idaeus,Raspberry,Shrubs
+70,UK,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+70,UK,Sunflower,Sunflower,Forbs
+70,UK,Castanea sativa,Sweet Chestnut,Trees
+70,UK,Vegetables,Vegetables,Forbs
+122,Germany,Triticum aestivum,Common Wheat,Forbs
+70,UK,Morus alba,White Mulberry,Trees
+71,UK,Malus domestica,Apple,Trees
+71,UK,Barley,Barley,Forbs
+210,Belgium,Alnus glutinosa,Black Alder,Trees
+71,UK,Crataegus monogyna,Common Hawthorn,Shrubs
+71,UK,Corylus avellana,European Hazel,Shrubs
+71,UK,Carpinus betulus,European Hornbeam,Trees
+71,UK,Field beans,Field beans,Forbs
+71,UK,Acer campestre,Field Maple,Trees
+71,UK,Tilia cordata,Small-leaved Lime,Trees
+131,Germany,Triticum aestivum,Common Wheat,Forbs
+71,UK,Prunus avium,Wild Cherry,Trees
+72,UK,Malus domestica,Apple,Trees
+72,UK,Avena sativa,Oats,Forbs
+73,Belgium,Corn,Corn,Forbs
+73,Belgium,Field grass,Field grass,Forbs
+73,Belgium,Zea mays,Maize,Forbs
+73,Belgium,Quercus robur,Pedunculate Oak,Trees
+73,Belgium,Solanum tuberosum,Potatoes,Forbs
+73,Belgium,Sugar beet,Sugar Beet,Forbs
+134,Germany,Triticum aestivum,Common Wheat,Forbs
+74,Belgium,Field grass,Field grass,Forbs
+74,Belgium,Crataegus spp.,Hawthorn,Shrubs
+74,Belgium,Juglans regia,Persian Walnut,Trees
+75,Belgium,Malus domestica,Apple,Trees
+75,Belgium,Gleditsia triacanthos,Honeylocust,Trees
+75,Belgium,Pyrus communis,Pear,Trees
+75,Belgium,Juglans regia,Persian Walnut,Trees
+75,Belgium,Prunus domestica,Plum,Trees
+75,Belgium,Castanea sativa,Sweet Chestnut,Trees
+75,Belgium,Vegetables,Vegetables,Forbs
+75,Belgium,Prunus avium,Wild Cherry,Trees
+76,Belgium,Malus domestica,Apple,Trees
+76,Belgium,Cornus mas,Cornelian Cherry,Shrubs
+76,Belgium,Ribes spp.,Currant,Shrubs
+76,Belgium,Sambucus nigra,Elder,Shrubs
+76,Belgium,Field beans,Field beans,Forbs
+76,Belgium,Field grass,Field grass,Forbs
+76,Belgium,Grain peas,Grain peas,Forbs
+76,Belgium,Populus spp.,Poplar,Trees
+76,Belgium,Castanea sativa,Sweet Chestnut,Trees
+136,Germany,Triticum aestivum,Common Wheat,Forbs
+77,Belgium,Malus domestica,Apple,Trees
+77,Belgium,Field grass,Field grass,Forbs
+77,Belgium,Pyrus communis,Pear,Trees
+77,Belgium,Prunus domestica,Plum,Trees
+77,Belgium,Prunus avium,Wild Cherry,Trees
+78,Belgium,Barley,Barley,Forbs
+78,Belgium,Prunus spinosa,Blackthorn,Shrubs
+78,Belgium,Juniperus communis,Common Juniper,Shrubs
+78,Belgium,Cornus spp.,Dogwood,Shrubs
+78,Belgium,Sambucus nigra,Elder,Shrubs
+78,Belgium,Fagus sylvatica,European Beech,Trees
+78,Belgium,Field beans,Field beans,Forbs
+78,Belgium,Field grass,Field grass,Forbs
+78,Belgium,Grain peas,Grain peas,Forbs
+78,Belgium,Viburnum opulus,Guelder-rose,Shrubs
+78,Belgium,Crataegus spp.,Hawthorn,Shrubs
+78,Belgium,Juglans hybride,Hybrid Walnut,Trees
+78,Belgium,Sorbus aucuparia,Rowan,Trees
+105,Germany,Cormus domestica,Service Tree,Trees
+78,Belgium,Corylus colurna,Turkish Hazel,Trees
+137,Germany,Triticum aestivum,Common Wheat,Forbs
+78,Belgium,Prunus avium,Wild Cherry,Trees
+79,Belgium,Clover,Clover,Forbs
+79,Belgium,Sambucus nigra,Elder,Shrubs
+79,Belgium,Field grass,Field grass,Forbs
+79,Belgium,Crataegus spp.,Hawthorn,Shrubs
+79,Belgium,Juglans regia,Persian Walnut,Trees
+5,Germany,Alnus rubra,Red Alder,Trees
+80,Belgium,Malus domestica,Apple,Trees
+80,Belgium,Rubus fruticosus,Blackberry,Shrubs
+80,Belgium,Ribes spp.,Currant,Shrubs
+80,Belgium,Vitis vinifera,Grapevine,Shrubs
+80,Belgium,Juglans regia,Persian Walnut,Trees
+80,Belgium,Rubus idaeus,Raspberry,Shrubs
+80,Belgium,Salix spp.,Willow,Trees
+81,Belgium,Corn,Corn,Forbs
+81,Belgium,Fagus sylvatica,European Beech,Trees
+81,Belgium,Field grass,Field grass,Forbs
+81,Belgium,Zea mays,Maize,Forbs
+81,Belgium,Quercus robur,Pedunculate Oak,Trees
+81,Belgium,Solanum tuberosum,Potatoes,Forbs
+142,Germany,Triticum aestivum,Common Wheat,Forbs
+82,Belgium,Malus domestica,Apple,Trees
+82,Belgium,Rubus fruticosus,Blackberry,Shrubs
+82,Belgium,Vaccinium spp.,Blueberry,Shrubs
+82,Belgium,Ribes spp.,Currant,Shrubs
+82,Belgium,Cornus spp.,Dogwood,Shrubs
+82,Belgium,Pyrus communis,Pear,Trees
+82,Belgium,Prunus domestica,Plum,Trees
+82,Belgium,Rubus idaeus,Raspberry,Shrubs
+82,Belgium,Vegetables,Vegetables,Forbs
+83,Belgium,Malus domestica,Apple,Trees
+83,Belgium,Fraxinus spp.,Ash,Trees
+83,Belgium,Prunus spinosa,Blackthorn,Shrubs
+83,Belgium,Cornus mas,Cornelian Cherry,Shrubs
+83,Belgium,Rosa canina,Dog Rose,Shrubs
+83,Belgium,Flowers,Flowers,Forbs
+83,Belgium,Crataegus spp.,Hawthorn,Shrubs
+83,Belgium,Ornamental plants,Ornamental plants,Forbs
+83,Belgium,Pyrus communis,Pear,Trees
+83,Belgium,Juglans regia,Persian Walnut,Trees
+83,Belgium,Prunus domestica,Plum,Trees
+83,Belgium,Vegetables,Vegetables,Forbs
+83,Belgium,Prunus avium,Wild Cherry,Trees
+84,Belgium,Prunus amygdalus,Almond,Trees
+84,Belgium,Corylus avellana,European Hazel,Shrubs
+84,Belgium,Field grass,Field grass,Forbs
+84,Belgium,Carya illinoinensis,Pecan,Trees
+84,Belgium,Juglans regia,Persian Walnut,Trees
+85,Belgium,Prunus amygdalus,Almond,Trees
+85,Belgium,Malus domestica,Apple,Trees
+85,Belgium,Pyrus pyrifolia,Asian Pear,Trees
+85,Belgium,Morus nigra,Black Mulberry,Trees
+85,Belgium,Rubus fruticosus,Blackberry,Shrubs
+85,Belgium,Vaccinium spp.,Blueberry,Shrubs
+85,Belgium,Ribes spp.,Currant,Shrubs
+85,Belgium,Corylus avellana,European Hazel,Shrubs
+85,Belgium,Lonicera caerulea,Honeyberry,Shrubs
+85,Belgium,Crataegus germanica,Medlar,Trees
+85,Belgium,Pyrus communis,Pear,Trees
+85,Belgium,Juglans regia,Persian Walnut,Trees
+85,Belgium,Prunus domestica,Plum,Trees
+85,Belgium,Poultry,Poultry,Animals
+85,Belgium,Prunus cerasus,Sour Cherry,Trees
+85,Belgium,Vegetables,Vegetables,Forbs
+85,Belgium,Morus alba,White Mulberry,Trees
+85,Belgium,Prunus avium,Wild Cherry,Trees
+86,Belgium,Sambucus nigra,Elder,Shrubs
+86,Belgium,Corylus avellana,European Hazel,Shrubs
+86,Belgium,Crataegus spp.,Hawthorn,Shrubs
+86,Belgium,Juglans regia,Persian Walnut,Trees
+86,Belgium,Vegetables,Vegetables,Forbs
+87,Belgium,Prunus padus,Bird Cherry,Trees
+87,Belgium,Vaccinium spp.,Blueberry,Shrubs
+87,Belgium,Clover,Clover,Forbs
+87,Belgium,Corylus avellana,European Hazel,Shrubs
+87,Belgium,Ilex aquifolium,Holly,Shrubs
+87,Belgium,Juglans regia,Persian Walnut,Trees
+87,Belgium,Populus spp.,Poplar,Trees
+87,Belgium,Quercus petraea,Sessile Oak,Trees
+87,Belgium,Castanea sativa,Sweet Chestnut,Trees
+149,Germany,Triticum aestivum,Common Wheat,Forbs
+87,Belgium,Salix spp.,Willow,Trees
+88,Belgium,Sambucus nigra,Elder,Shrubs
+88,Belgium,Corylus avellana,European Hazel,Shrubs
+88,Belgium,Crataegus spp.,Hawthorn,Shrubs
+88,Belgium,Juglans regia,Persian Walnut,Trees
+88,Belgium,Vegetables,Vegetables,Forbs
+89,Belgium,Corylus avellana,European Hazel,Shrubs
+89,Belgium,Field grass,Field grass,Forbs
+89,Belgium,Goats,Goats,Animals
+89,Belgium,Quercus spp.,Oak,Trees
+89,Belgium,Juglans regia,Persian Walnut,Trees
+89,Belgium,Sheep,Sheep,Animals
+89,Belgium,Castanea sativa,Sweet Chestnut,Trees
+89,Belgium,Vegetables,Vegetables,Forbs
+89,Belgium,Prunus avium,Wild Cherry,Trees
+90,Belgium,Prunus spinosa,Blackthorn,Shrubs
+90,Belgium,Cornus spp.,Dogwood,Shrubs
+90,Belgium,Sambucus nigra,Elder,Shrubs
+90,Belgium,Corylus avellana,European Hazel,Shrubs
+90,Belgium,Crataegus spp.,Hawthorn,Shrubs
+90,Belgium,Juglans ailantifolia,Japanese Walnut,Trees
+90,Belgium,Carya illinoinensis,Pecan,Trees
+90,Belgium,Juglans regia,Persian Walnut,Trees
+68,UK,Alnus spp.,Alder (general),Trees
+91,Belgium,Malus domestica,Apple,Trees
+91,Belgium,Prunus padus,Bird Cherry,Trees
+91,Belgium,Aronia melanocarpa,Black Chokeberry,Shrubs
+91,Belgium,Cornus mas,Cornelian Cherry,Shrubs
+91,Belgium,Corylus avellana,European Hazel,Shrubs
+91,Belgium,Field grass,Field grass,Forbs
+91,Belgium,Crataegus germanica,Medlar,Trees
+91,Belgium,Quercus spp.,Oak,Trees
+91,Belgium,Pyrus communis,Pear,Trees
+91,Belgium,Juglans regia,Persian Walnut,Trees
+91,Belgium,Prunus domestica,Plum,Trees
+91,Belgium,Cydonia oblonga,Quince,Trees
+91,Belgium,Prunus cerasus,Sour Cherry,Trees
+91,Belgium,Castanea sativa,Sweet Chestnut,Trees
+91,Belgium,Prunus avium,Wild Cherry,Trees
+92,Belgium,Prunus amygdalus,Almond,Trees
+92,Belgium,Malus domestica,Apple,Trees
+92,Belgium,Morus nigra,Black Mulberry,Trees
+92,Belgium,Ribes spp.,Currant,Shrubs
+92,Belgium,Corylus avellana,European Hazel,Shrubs
+92,Belgium,Actinidia arguta,Hardy Kiwi,Shrubs
+92,Belgium,Prunus domestica,Plum,Trees
+92,Belgium,Cydonia oblonga,Quince,Trees
+92,Belgium,Vegetables,Vegetables,Forbs
+92,Belgium,Morus alba,White Mulberry,Trees
+93,Belgium,Field grass,Field grass,Forbs
+93,Belgium,Populus spp.,Poplar,Trees
+93,Belgium,Salix spp.,Willow,Trees
+94,Belgium,Field grass,Field grass,Forbs
+94,Belgium,Juglans regia,Persian Walnut,Trees
+95,Belgium,Malus domestica,Apple,Trees
+95,Belgium,Ribes spp.,Currant,Shrubs
+95,Belgium,Pyrus communis,Pear,Trees
+95,Belgium,Prunus domestica,Plum,Trees
+95,Belgium,Vegetables,Vegetables,Forbs
+95,Belgium,Prunus avium,Wild Cherry,Trees
+96,Belgium,Malus domestica,Apple,Trees
+96,Belgium,Barley,Barley,Forbs
+96,Belgium,Cornus spp.,Dogwood,Shrubs
+96,Belgium,Sambucus nigra,Elder,Shrubs
+96,Belgium,Corylus avellana,European Hazel,Shrubs
+96,Belgium,Juglans regia,Persian Walnut,Trees
+96,Belgium,Populus spp.,Poplar,Trees
+96,Belgium,Rapeseed,Rapeseed,Forbs
+107,Germany,Cormus domestica,Service Tree,Trees
+96,Belgium,Quercus petraea,Sessile Oak,Trees
+96,Belgium,Castanea sativa,Sweet Chestnut,Trees
+96,Belgium,Corylus colurna,Turkish Hazel,Trees
+96,Belgium,Prunus avium,Wild Cherry,Trees
+108,Germany,Cormus domestica,Service Tree,Trees
+97,Belgium,Malus domestica,Apple,Trees
+97,Belgium,Ribes spp.,Currant,Shrubs
+97,Belgium,Pyrus communis,Pear,Trees
+97,Belgium,Rubus idaeus,Raspberry,Shrubs
+97,Belgium,Vegetables,Vegetables,Forbs
+98,Belgium,Corylus avellana,European Hazel,Shrubs
+98,Belgium,Field grass,Field grass,Forbs
+98,Belgium,Juglans regia,Persian Walnut,Trees
+99,Belgium,Corylus avellana,European Hazel,Shrubs
+99,Belgium,Crataegus spp.,Hawthorn,Shrubs
+99,Belgium,Quercus spp.,Oak,Trees
+99,Belgium,Juglans regia,Persian Walnut,Trees
+99,Belgium,Solanum tuberosum,Potatoes,Forbs
+99,Belgium,Rapeseed,Rapeseed,Forbs
+99,Belgium,Sugar beet,Sugar Beet,Forbs
+151,Germany,Triticum aestivum,Common Wheat,Forbs
+100,Belgium,Malus domestica,Apple,Trees
+100,Belgium,Ligustrum vulgare,Common Privet,Trees
+100,Belgium,Acer campestre,Field Maple,Trees
+100,Belgium,Grapevine,Grapevine,Forbs
+100,Belgium,Pyrus communis,Pear,Trees
+100,Belgium,Juglans regia,Persian Walnut,Trees
+100,Belgium,Prunus avium,Wild Cherry,Trees
+101,Belgium,Malus domestica,Apple,Trees
+101,Belgium,Prunus spinosa,Blackthorn,Shrubs
+101,Belgium,Cornus mas,Cornelian Cherry,Shrubs
+101,Belgium,Vitis vinifera,Grapevine,Shrubs
+101,Belgium,Grapevine,Grapevine,Forbs
+101,Belgium,Crataegus spp.,Hawthorn,Shrubs
+101,Belgium,Quercus spp.,Oak,Trees
+101,Belgium,Prunus persica,Peach,Trees
+101,Belgium,Pyrus communis,Pear,Trees
+101,Belgium,Juglans regia,Persian Walnut,Trees
+101,Belgium,Prunus domestica,Plum,Trees
+101,Belgium,Cydonia oblonga,Quince,Trees
+101,Belgium,Castanea sativa,Sweet Chestnut,Trees
+101,Belgium,Prunus avium,Wild Cherry,Trees
+102,Belgium,Malus domestica,Apple,Trees
+102,Belgium,Pyrus communis,Pear,Trees
+102,Belgium,Prunus domestica,Plum,Trees
+102,Belgium,Vegetables,Vegetables,Forbs
+103,Belgium,Malus domestica,Apple,Trees
+103,Belgium,Prunus spinosa,Blackthorn,Shrubs
+103,Belgium,Corylus avellana,European Hazel,Shrubs
+103,Belgium,Crataegus spp.,Hawthorn,Shrubs
+103,Belgium,Pyrus communis,Pear,Trees
+103,Belgium,Juglans regia,Persian Walnut,Trees
+103,Belgium,Prunus domestica,Plum,Trees
+103,Belgium,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+103,Belgium,Vegetables,Vegetables,Forbs
+80,Belgium,Alnus spp.,Alder (general),Trees
+104,Germany,Betula spp.,Birch,Trees
+104,Germany,Robinia pseudoacacia,Black Locust,Trees
+104,Germany,Juglans nigra,Black Walnut,Trees
+104,Germany,Malus sylvestris,European Crab Apple,Trees
+104,Germany,Corylus avellana,European Hazel,Shrubs
+104,Germany,Acer spp.,Maple,Trees
+104,Germany,Quercus spp.,Oak,Trees
+104,Germany,Pyrus communis,Pear,Trees
+109,Germany,Cormus domestica,Service Tree,Trees
+104,Germany,Castanea sativa,Sweet Chestnut,Trees
+110,Germany,Cormus domestica,Service Tree,Trees
+105,Germany,Malus domestica,Apple,Trees
+105,Germany,Barley,Barley,Forbs
+105,Germany,Juglans nigra,Black Walnut,Trees
+105,Germany,Field beans,Field beans,Forbs
+105,Germany,Field grass,Field grass,Forbs
+105,Germany,Lupine,Lupine,Forbs
+105,Germany,Pyrus communis,Pear,Trees
+105,Germany,Rapeseed,Rapeseed,Forbs
+115,Germany,Cormus domestica,Service Tree,Trees
+161,Germany,Triticum aestivum,Common Wheat,Forbs
+105,Germany,Prunus avium,Wild Cherry,Trees
+121,Germany,Cormus domestica,Service Tree,Trees
+106,Germany,Malus domestica,Apple,Trees
+106,Germany,Prunus padus,Bird Cherry,Trees
+106,Germany,Robinia pseudoacacia,Black Locust,Trees
+106,Germany,Juglans nigra,Black Walnut,Trees
+106,Germany,Rubus fruticosus,Blackberry,Shrubs
+106,Germany,Prunus spinosa,Blackthorn,Shrubs
+106,Germany,Cornus mas,Cornelian Cherry,Shrubs
+106,Germany,Rosa canina,Dog Rose,Shrubs
+106,Germany,Cornus spp.,Dogwood,Shrubs
+106,Germany,Sambucus nigra,Elder,Shrubs
+106,Germany,Ulmus spp.,Elm,Trees
+106,Germany,Corylus avellana,European Hazel,Shrubs
+106,Germany,Carpinus betulus,European Hornbeam,Trees
+106,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+106,Germany,Crataegus spp.,Hawthorn,Shrubs
+106,Germany,Acer spp.,Maple,Trees
+106,Germany,Quercus spp.,Oak,Trees
+106,Germany,Prunus domestica,Plum,Trees
+106,Germany,Populus spp.,Poplar,Trees
+106,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+106,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+106,Germany,Prunus avium,Wild Cherry,Trees
+106,Germany,Salix spp.,Willow,Trees
+107,Germany,Robinia pseudoacacia,Black Locust,Trees
+107,Germany,Acer spp.,Maple,Trees
+107,Germany,Pyrus communis,Pear,Trees
+107,Germany,Sorbus aucuparia,Rowan,Trees
+107,Germany,Secale cereale,Rye,Forbs
+124,Germany,Cormus domestica,Service Tree,Trees
+126,Germany,Cormus domestica,Service Tree,Trees
+108,Germany,Malus domestica,Apple,Trees
+108,Germany,Betula spp.,Birch,Trees
+108,Germany,Juglans nigra,Black Walnut,Trees
+108,Germany,Rubus fruticosus,Blackberry,Shrubs
+108,Germany,Prunus spinosa,Blackthorn,Shrubs
+108,Germany,Vaccinium spp.,Blueberry,Shrubs
+108,Germany,Cornus mas,Cornelian Cherry,Shrubs
+108,Germany,Cornus spp.,Dogwood,Shrubs
+108,Germany,Sambucus nigra,Elder,Shrubs
+108,Germany,Malus sylvestris,European Crab Apple,Trees
+108,Germany,Corylus avellana,European Hazel,Shrubs
+108,Germany,Carpinus betulus,European Hornbeam,Trees
+108,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+108,Germany,Crataegus spp.,Hawthorn,Shrubs
+108,Germany,Acer spp.,Maple,Trees
+108,Germany,Quercus spp.,Oak,Trees
+108,Germany,Pyrus communis,Pear,Trees
+108,Germany,Pyrus communis,Pear,Trees
+108,Germany,Prunus domestica,Plum,Trees
+108,Germany,Populus spp.,Poplar,Trees
+108,Germany,Rubus idaeus,Raspberry,Shrubs
+108,Germany,Sorbus aucuparia,Rowan,Trees
+108,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+129,Germany,Cormus domestica,Service Tree,Trees
+108,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+108,Germany,Castanea sativa,Sweet Chestnut,Trees
+108,Germany,Prunus avium,Wild Cherry,Trees
+138,Germany,Cormus domestica,Service Tree,Trees
+108,Germany,Salix spp.,Willow,Trees
+91,Belgium,Alnus spp.,Alder (general),Trees
+109,Germany,Malus domestica,Apple,Trees
+109,Germany,Fraxinus spp.,Ash,Trees
+109,Germany,Betula spp.,Birch,Trees
+109,Germany,Prunus padus,Bird Cherry,Trees
+109,Germany,Juglans nigra,Black Walnut,Trees
+109,Germany,Rubus fruticosus,Blackberry,Shrubs
+109,Germany,Prunus spinosa,Blackthorn,Shrubs
+109,Germany,Vaccinium spp.,Blueberry,Shrubs
+109,Germany,Cornus mas,Cornelian Cherry,Shrubs
+109,Germany,Rosa canina,Dog Rose,Shrubs
+109,Germany,Cornus spp.,Dogwood,Shrubs
+109,Germany,Sambucus nigra,Elder,Shrubs
+109,Germany,Malus sylvestris,European Crab Apple,Trees
+109,Germany,Corylus avellana,European Hazel,Shrubs
+109,Germany,Carpinus betulus,European Hornbeam,Trees
+109,Germany,Field beans,Field beans,Forbs
+109,Germany,Field grass,Field grass,Forbs
+109,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+109,Germany,Crataegus spp.,Hawthorn,Shrubs
+109,Germany,Tilia spp.,Lime,Trees
+109,Germany,Lupine,Lupine,Forbs
+109,Germany,Acer spp.,Maple,Trees
+109,Germany,Quercus spp.,Oak,Trees
+109,Germany,Pyrus communis,Pear,Trees
+109,Germany,Pyrus communis,Pear,Trees
+109,Germany,Prunus domestica,Plum,Trees
+109,Germany,Solanum tuberosum,Potatoes,Forbs
+109,Germany,Rapeseed,Rapeseed,Forbs
+109,Germany,Sorbus aucuparia,Rowan,Trees
+109,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+141,Germany,Cormus domestica,Service Tree,Trees
+109,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+109,Germany,Castanea sativa,Sweet Chestnut,Trees
+109,Germany,Vegetables,Vegetables,Forbs
+109,Germany,Prunus avium,Wild Cherry,Trees
+109,Germany,Salix spp.,Willow,Trees
+104,Germany,Alnus spp.,Alder (general),Trees
+110,Germany,Malus domestica,Apple,Trees
+110,Germany,Fraxinus spp.,Ash,Trees
+110,Germany,Betula spp.,Birch,Trees
+110,Germany,Prunus padus,Bird Cherry,Trees
+110,Germany,Juglans nigra,Black Walnut,Trees
+110,Germany,Rubus fruticosus,Blackberry,Shrubs
+110,Germany,Prunus spinosa,Blackthorn,Shrubs
+110,Germany,Vaccinium spp.,Blueberry,Shrubs
+110,Germany,Cornus mas,Cornelian Cherry,Shrubs
+110,Germany,Rosa canina,Dog Rose,Shrubs
+110,Germany,Cornus spp.,Dogwood,Shrubs
+110,Germany,Sambucus nigra,Elder,Shrubs
+110,Germany,Malus sylvestris,European Crab Apple,Trees
+110,Germany,Corylus avellana,European Hazel,Shrubs
+110,Germany,Carpinus betulus,European Hornbeam,Trees
+110,Germany,Field beans,Field beans,Forbs
+110,Germany,Field grass,Field grass,Forbs
+110,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+110,Germany,Crataegus spp.,Hawthorn,Shrubs
+110,Germany,Tilia spp.,Lime,Trees
+110,Germany,Lupine,Lupine,Forbs
+110,Germany,Acer spp.,Maple,Trees
+110,Germany,Quercus spp.,Oak,Trees
+110,Germany,Pyrus communis,Pear,Trees
+110,Germany,Pyrus communis,Pear,Trees
+110,Germany,Prunus domestica,Plum,Trees
+110,Germany,Solanum tuberosum,Potatoes,Forbs
+110,Germany,Rapeseed,Rapeseed,Forbs
+110,Germany,Sorbus aucuparia,Rowan,Trees
+110,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+149,Germany,Cormus domestica,Service Tree,Trees
+110,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+110,Germany,Castanea sativa,Sweet Chestnut,Trees
+110,Germany,Vegetables,Vegetables,Forbs
+110,Germany,Prunus avium,Wild Cherry,Trees
+110,Germany,Salix spp.,Willow,Trees
+111,Germany,Corylus avellana,European Hazel,Shrubs
+111,Germany,Salix spp.,Willow,Trees
+112,Germany,Malus domestica,Apple,Trees
+112,Germany,Juglans nigra,Black Walnut,Trees
+112,Germany,Prunus domestica,Plum,Trees
+112,Germany,Populus spp.,Poplar,Trees
+112,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+112,Germany,Castanea sativa,Sweet Chestnut,Trees
+113,Germany,Medicago sativa,Alfalfa,Forbs
+113,Germany,Castanea sativa,Sweet Chestnut,Trees
+150,Germany,Cormus domestica,Service Tree,Trees
+114,Germany,Malus domestica,Apple,Trees
+114,Germany,Ribes spp.,Currant,Shrubs
+114,Germany,Sambucus nigra,Elder,Shrubs
+114,Germany,Vitis vinifera,Grapevine,Shrubs
+114,Germany,Prunus persica,Peach,Trees
+114,Germany,Pyrus communis,Pear,Trees
+114,Germany,Prunus domestica,Plum,Trees
+114,Germany,Populus spp.,Poplar,Trees
+114,Germany,Paulownia tomentosa,Princess Tree,Trees
+114,Germany,Vegetables,Vegetables,Forbs
+114,Germany,Prunus avium,Wild Cherry,Trees
+114,Germany,Salix spp.,Willow,Trees
+115,Germany,Rosa canina,Dog Rose,Shrubs
+115,Germany,Sambucus nigra,Elder,Shrubs
+115,Germany,Quercus spp.,Oak,Trees
+115,Germany,Pyrus communis,Pear,Trees
+115,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+158,Germany,Cormus domestica,Service Tree,Trees
+159,Germany,Cormus domestica,Service Tree,Trees
+115,Germany,Salix spp.,Willow,Trees
+116,Germany,Malus domestica,Apple,Trees
+116,Germany,Vegetables,Vegetables,Forbs
+117,Germany,Betula spp.,Birch,Trees
+117,Germany,Juglans nigra,Black Walnut,Trees
+117,Germany,Rosa canina,Dog Rose,Shrubs
+117,Germany,Corylus avellana,European Hazel,Shrubs
+117,Germany,Carpinus betulus,European Hornbeam,Trees
+117,Germany,Crataegus spp.,Hawthorn,Shrubs
+117,Germany,Tilia spp.,Lime,Trees
+117,Germany,Acer spp.,Maple,Trees
+117,Germany,Quercus spp.,Oak,Trees
+117,Germany,Pyrus communis,Pear,Trees
+117,Germany,Populus spp.,Poplar,Trees
+117,Germany,Rubus idaeus,Raspberry,Shrubs
+117,Germany,Sorbus aucuparia,Rowan,Trees
+117,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+117,Germany,Castanea sativa,Sweet Chestnut,Trees
+117,Germany,Sorbus aria,Whitebeam,Trees
+118,Germany,Malus domestica,Apple,Trees
+118,Germany,Juglans nigra,Black Walnut,Trees
+118,Germany,Cornus mas,Cornelian Cherry,Shrubs
+118,Germany,Rosa canina,Dog Rose,Shrubs
+118,Germany,Sambucus nigra,Elder,Shrubs
+118,Germany,Malus sylvestris,European Crab Apple,Trees
+118,Germany,Corylus avellana,European Hazel,Shrubs
+118,Germany,Crataegus spp.,Hawthorn,Shrubs
+118,Germany,Acer spp.,Maple,Trees
+118,Germany,Quercus spp.,Oak,Trees
+118,Germany,Pyrus communis,Pear,Trees
+118,Germany,Pyrus communis,Pear,Trees
+118,Germany,Prunus domestica,Plum,Trees
+118,Germany,Populus spp.,Poplar,Trees
+118,Germany,Sorbus aucuparia,Rowan,Trees
+118,Germany,Castanea sativa,Sweet Chestnut,Trees
+161,Germany,Cormus domestica,Service Tree,Trees
+118,Germany,Salix spp.,Willow,Trees
+119,Germany,Malus domestica,Apple,Trees
+119,Germany,Juglans nigra,Black Walnut,Trees
+119,Germany,Rubus fruticosus,Blackberry,Shrubs
+119,Germany,Pyrus communis,Pear,Trees
+119,Germany,Prunus domestica,Plum,Trees
+119,Germany,Rubus idaeus,Raspberry,Shrubs
+119,Germany,Prunus avium,Wild Cherry,Trees
+120,Germany,Malus domestica,Apple,Trees
+120,Germany,Juglans nigra,Black Walnut,Trees
+120,Germany,Prunus spinosa,Blackthorn,Shrubs
+120,Germany,Cornus mas,Cornelian Cherry,Shrubs
+120,Germany,Sambucus nigra,Elder,Shrubs
+120,Germany,Corylus avellana,European Hazel,Shrubs
+120,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+120,Germany,Crataegus spp.,Hawthorn,Shrubs
+120,Germany,Pyrus communis,Pear,Trees
+120,Germany,Prunus domestica,Plum,Trees
+120,Germany,Vegetables,Vegetables,Forbs
+120,Germany,Prunus avium,Wild Cherry,Trees
+121,Germany,Medicago sativa,Alfalfa,Forbs
+121,Germany,Malus domestica,Apple,Trees
+121,Germany,Juglans nigra,Black Walnut,Trees
+121,Germany,Rubus fruticosus,Blackberry,Shrubs
+121,Germany,Vaccinium spp.,Blueberry,Shrubs
+121,Germany,Cornus mas,Cornelian Cherry,Shrubs
+121,Germany,Rosa canina,Dog Rose,Shrubs
+121,Germany,Cornus spp.,Dogwood,Shrubs
+121,Germany,Sambucus nigra,Elder,Shrubs
+121,Germany,Malus sylvestris,European Crab Apple,Trees
+121,Germany,Corylus avellana,European Hazel,Shrubs
+121,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+121,Germany,Pyrus communis,Pear,Trees
+121,Germany,Pyrus communis,Pear,Trees
+121,Germany,Prunus domestica,Plum,Trees
+121,Germany,Rubus idaeus,Raspberry,Shrubs
+121,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+163,Germany,Cormus domestica,Service Tree,Trees
+121,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+121,Germany,Castanea sativa,Sweet Chestnut,Trees
+121,Germany,Vegetables,Vegetables,Forbs
+121,Germany,Sorbus aria,Whitebeam,Trees
+121,Germany,Prunus avium,Wild Cherry,Trees
+164,Germany,Cormus domestica,Service Tree,Trees
+122,Germany,Malus domestica,Apple,Trees
+122,Germany,Barley,Barley,Forbs
+122,Germany,Juglans nigra,Black Walnut,Trees
+122,Germany,Corn,Corn,Forbs
+122,Germany,Zea mays,Maize,Forbs
+122,Germany,Pyrus communis,Pear,Trees
+122,Germany,Rapeseed,Rapeseed,Forbs
+122,Germany,Secale cereale,Rye,Forbs
+163,Germany,Triticum aestivum,Common Wheat,Forbs
+166,Germany,Cormus domestica,Service Tree,Trees
+123,Germany,Malus domestica,Apple,Trees
+123,Germany,Juglans nigra,Black Walnut,Trees
+123,Germany,Prunus spinosa,Blackthorn,Shrubs
+123,Germany,Cornus mas,Cornelian Cherry,Shrubs
+123,Germany,Sambucus nigra,Elder,Shrubs
+123,Germany,Corylus avellana,European Hazel,Shrubs
+123,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+123,Germany,Crataegus spp.,Hawthorn,Shrubs
+123,Germany,Pyrus communis,Pear,Trees
+123,Germany,Prunus domestica,Plum,Trees
+123,Germany,Vegetables,Vegetables,Forbs
+123,Germany,Prunus avium,Wild Cherry,Trees
+124,Germany,Alnus spp.,Alder (general),Trees
+124,Germany,Barley,Barley,Forbs
+124,Germany,Quercus spp.,Oak,Trees
+124,Germany,Populus spp.,Poplar,Trees
+176,Germany,Cormus domestica,Service Tree,Trees
+124,Germany,Castanea sativa,Sweet Chestnut,Trees
+124,Germany,Acer pseudoplatanus,Sycamore Maple,Trees
+178,Germany,Cormus domestica,Service Tree,Trees
+125,Germany,Malus domestica,Apple,Trees
+125,Germany,Vaccinium spp.,Blueberry,Shrubs
+125,Germany,Pyrus communis,Pear,Trees
+125,Germany,Rubus idaeus,Raspberry,Shrubs
+125,Germany,Vegetables,Vegetables,Forbs
+126,Germany,Alnus spp.,Alder (general),Trees
+126,Germany,Malus domestica,Apple,Trees
+126,Germany,Juglans nigra,Black Walnut,Trees
+126,Germany,Rubus fruticosus,Blackberry,Shrubs
+126,Germany,Cornus mas,Cornelian Cherry,Shrubs
+126,Germany,Tilia spp.,Lime,Trees
+126,Germany,Pyrus communis,Pear,Trees
+126,Germany,Prunus domestica,Plum,Trees
+126,Germany,Rubus idaeus,Raspberry,Shrubs
+180,Czechia,Cormus domestica,Service Tree,Trees
+126,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+126,Germany,Castanea sativa,Sweet Chestnut,Trees
+126,Germany,Vegetables,Vegetables,Forbs
+126,Germany,Prunus avium,Wild Cherry,Trees
+127,Germany,Juglans nigra,Black Walnut,Trees
+127,Germany,Field grass,Field grass,Forbs
+128,Germany,Malus domestica,Apple,Trees
+128,Germany,Pyrus communis,Pear,Trees
+128,Germany,Rubus idaeus,Raspberry,Shrubs
+128,Germany,Salix spp.,Willow,Trees
+129,Germany,Malus domestica,Apple,Trees
+129,Germany,Betula spp.,Birch,Trees
+129,Germany,Juglans nigra,Black Walnut,Trees
+129,Germany,Corylus avellana,European Hazel,Shrubs
+129,Germany,Sorbus aucuparia,Rowan,Trees
+236,Germany,Cormus domestica,Service Tree,Trees
+129,Germany,Sorbus aria,Whitebeam,Trees
+129,Germany,Prunus avium,Wild Cherry,Trees
+250,Germany,Cormus domestica,Service Tree,Trees
+129,Germany,Salix spp.,Willow,Trees
+130,Germany,Fraxinus spp.,Ash,Trees
+130,Germany,Prunus padus,Bird Cherry,Trees
+130,Germany,Corylus avellana,European Hazel,Shrubs
+130,Germany,Carpinus betulus,European Hornbeam,Trees
+130,Germany,Tilia spp.,Lime,Trees
+130,Germany,Acer spp.,Maple,Trees
+130,Germany,Quercus spp.,Oak,Trees
+130,Germany,Populus spp.,Poplar,Trees
+130,Germany,Castanea sativa,Sweet Chestnut,Trees
+131,Germany,Juglans nigra,Black Walnut,Trees
+131,Germany,Field grass,Field grass,Forbs
+131,Germany,Rapeseed,Rapeseed,Forbs
+171,Germany,Triticum aestivum,Common Wheat,Forbs
+132,Germany,Medicago sativa,Alfalfa,Forbs
+132,Germany,Malus domestica,Apple,Trees
+132,Germany,Juglans nigra,Black Walnut,Trees
+132,Germany,Rubus fruticosus,Blackberry,Shrubs
+132,Germany,Sambucus nigra,Elder,Shrubs
+132,Germany,Field grass,Field grass,Forbs
+132,Germany,Pyrus communis,Pear,Trees
+132,Germany,Prunus domestica,Plum,Trees
+132,Germany,Populus spp.,Poplar,Trees
+132,Germany,Rubus idaeus,Raspberry,Shrubs
+132,Germany,Castanea sativa,Sweet Chestnut,Trees
+132,Germany,Prunus avium,Wild Cherry,Trees
+133,Germany,Alnus spp.,Alder (general),Trees
+133,Germany,Juglans nigra,Black Walnut,Trees
+133,Germany,Corylus avellana,European Hazel,Shrubs
+133,Germany,Populus spp.,Poplar,Trees
+133,Germany,Sorbus aria,Whitebeam,Trees
+133,Germany,Prunus avium,Wild Cherry,Trees
+251,Germany,Cormus domestica,Service Tree,Trees
+133,Germany,Salix spp.,Willow,Trees
+134,Germany,Medicago sativa,Alfalfa,Forbs
+134,Germany,Juglans nigra,Black Walnut,Trees
+134,Germany,Prunus spinosa,Blackthorn,Shrubs
+134,Germany,Corn,Corn,Forbs
+134,Germany,Rosa canina,Dog Rose,Shrubs
+134,Germany,Cornus spp.,Dogwood,Shrubs
+134,Germany,Sambucus nigra,Elder,Shrubs
+134,Germany,Corylus avellana,European Hazel,Shrubs
+134,Germany,Field beans,Field beans,Forbs
+134,Germany,Grain peas,Grain peas,Forbs
+134,Germany,Crataegus spp.,Hawthorn,Shrubs
+134,Germany,Zea mays,Maize,Forbs
+134,Germany,Populus spp.,Poplar,Trees
+134,Germany,Secale cereale,Rye,Forbs
+134,Germany,Sugar beet,Sugar Beet,Forbs
+134,Germany,Sunflower,Sunflower,Forbs
+173,Germany,Triticum aestivum,Common Wheat,Forbs
+134,Germany,Salix spp.,Willow,Trees
+135,Germany,Juglans nigra,Black Walnut,Trees
+135,Germany,Corylus avellana,European Hazel,Shrubs
+135,Germany,Prunus domestica,Plum,Trees
+135,Germany,Populus spp.,Poplar,Trees
+135,Germany,Sorbus aucuparia,Rowan,Trees
+135,Germany,Castanea sativa,Sweet Chestnut,Trees
+135,Germany,Prunus avium,Wild Cherry,Trees
+265,Germany,Cormus domestica,Service Tree,Trees
+136,Germany,Populus spp.,Poplar,Trees
+176,Germany,Triticum aestivum,Common Wheat,Forbs
+137,Germany,Barley,Barley,Forbs
+137,Germany,Populus spp.,Poplar,Trees
+137,Germany,Rapeseed,Rapeseed,Forbs
+177,Germany,Triticum aestivum,Common Wheat,Forbs
+138,Germany,Crataegus monogyna,Common Hawthorn,Shrubs
+138,Germany,Cornus mas,Cornelian Cherry,Shrubs
+138,Germany,Sambucus nigra,Elder,Shrubs
+138,Germany,Corylus avellana,European Hazel,Shrubs
+138,Germany,Salix caprea,Goat Willow,Shrubs
+138,Germany,Viburnum opulus,Guelder-rose,Shrubs
+138,Germany,Acer spp.,Maple,Trees
+138,Germany,Crataegus laevigata,Midland Hawthorn,Shrubs
+138,Germany,Quercus robur,Pedunculate Oak,Trees
+138,Germany,Juglans regia,Persian Walnut,Trees
+138,Germany,Populus spp.,Poplar,Trees
+274,Germany,Cormus domestica,Service Tree,Trees
+138,Germany,Tilia cordata,Small-leaved Lime,Trees
+138,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+138,Germany,Amelanchier ovalis,Snowy Mespilus,Shrubs
+138,Germany,Castanea sativa,Sweet Chestnut,Trees
+138,Germany,Viburnum lantana,Wayfaring-tree,Shrubs
+138,Germany,Sorbus aria,Whitebeam,Trees
+138,Germany,Prunus avium,Wild Cherry,Trees
+288,Germany,Cormus domestica,Service Tree,Trees
+139,Germany,Medicago sativa,Alfalfa,Forbs
+139,Germany,Field grass,Field grass,Forbs
+139,Germany,Avena sativa,Oats,Forbs
+139,Germany,Populus spp.,Poplar,Trees
+139,Germany,Solanum tuberosum,Potatoes,Forbs
+140,Germany,Malus domestica,Apple,Trees
+140,Germany,Rubus fruticosus,Blackberry,Shrubs
+140,Germany,Vaccinium spp.,Blueberry,Shrubs
+140,Germany,Pyrus communis,Pear,Trees
+140,Germany,Prunus domestica,Plum,Trees
+140,Germany,Rubus idaeus,Raspberry,Shrubs
+140,Germany,Castanea sativa,Sweet Chestnut,Trees
+140,Germany,Vegetables,Vegetables,Forbs
+140,Germany,Prunus avium,Wild Cherry,Trees
+160,Germany,Alnus spp.,Alder (general),Trees
+141,Germany,Juglans nigra,Black Walnut,Trees
+141,Germany,Cornus mas,Cornelian Cherry,Shrubs
+141,Germany,Sambucus nigra,Elder,Shrubs
+141,Germany,Corylus avellana,European Hazel,Shrubs
+141,Germany,Crataegus spp.,Hawthorn,Shrubs
+141,Germany,Pyrus communis,Pear,Trees
+141,Germany,Populus spp.,Poplar,Trees
+141,Germany,Sorbus aucuparia,Rowan,Trees
+290,Germany,Cormus domestica,Service Tree,Trees
+317,Belgium,Cormus domestica,Service Tree,Trees
+141,Germany,Salix spp.,Willow,Trees
+142,Germany,Medicago sativa,Alfalfa,Forbs
+142,Germany,Populus spp.,Poplar,Trees
+142,Germany,Solanum tuberosum,Potatoes,Forbs
+142,Germany,Vegetables,Vegetables,Forbs
+178,Germany,Triticum aestivum,Common Wheat,Forbs
+143,Germany,Malus domestica,Apple,Trees
+143,Germany,Juglans nigra,Black Walnut,Trees
+143,Germany,Corylus avellana,European Hazel,Shrubs
+143,Germany,Pyrus communis,Pear,Trees
+143,Germany,Rubus idaeus,Raspberry,Shrubs
+143,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+143,Germany,Castanea sativa,Sweet Chestnut,Trees
+143,Germany,Vegetables,Vegetables,Forbs
+144,Germany,Malus domestica,Apple,Trees
+144,Germany,Sambucus nigra,Elder,Shrubs
+144,Germany,Vegetables,Vegetables,Forbs
+145,Germany,Malus domestica,Apple,Trees
+145,Germany,Fraxinus spp.,Ash,Trees
+145,Germany,Juglans nigra,Black Walnut,Trees
+145,Germany,Rubus fruticosus,Blackberry,Shrubs
+145,Germany,Rosa canina,Dog Rose,Shrubs
+145,Germany,Sambucus nigra,Elder,Shrubs
+145,Germany,Carpinus betulus,European Hornbeam,Trees
+145,Germany,Crataegus spp.,Hawthorn,Shrubs
+145,Germany,Acer spp.,Maple,Trees
+145,Germany,Quercus spp.,Oak,Trees
+145,Germany,Pyrus communis,Pear,Trees
+145,Germany,Prunus domestica,Plum,Trees
+145,Germany,Rubus idaeus,Raspberry,Shrubs
+145,Germany,Sorbus aucuparia,Rowan,Trees
+145,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+145,Germany,Castanea sativa,Sweet Chestnut,Trees
+146,Germany,Carpinus betulus,European Hornbeam,Trees
+146,Germany,Crataegus spp.,Hawthorn,Shrubs
+146,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+147,Germany,Cornus mas,Cornelian Cherry,Shrubs
+147,Germany,Cornus spp.,Dogwood,Shrubs
+147,Germany,Sambucus nigra,Elder,Shrubs
+147,Germany,Malus sylvestris,European Crab Apple,Trees
+147,Germany,Corylus avellana,European Hazel,Shrubs
+147,Germany,Carpinus betulus,European Hornbeam,Trees
+147,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+147,Germany,Crataegus spp.,Hawthorn,Shrubs
+147,Germany,Acer spp.,Maple,Trees
+147,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+147,Germany,Salix spp.,Willow,Trees
+148,Germany,Rubus fruticosus,Blackberry,Shrubs
+148,Germany,Populus spp.,Poplar,Trees
+148,Germany,Rubus idaeus,Raspberry,Shrubs
+149,Germany,Medicago sativa,Alfalfa,Forbs
+149,Germany,Malus domestica,Apple,Trees
+149,Germany,Juglans nigra,Black Walnut,Trees
+149,Germany,Corn,Corn,Forbs
+149,Germany,Sambucus nigra,Elder,Shrubs
+149,Germany,Field beans,Field beans,Forbs
+149,Germany,Field grass,Field grass,Forbs
+149,Germany,Zea mays,Maize,Forbs
+149,Germany,Avena sativa,Oats,Forbs
+149,Germany,Populus spp.,Poplar,Trees
+149,Germany,Solanum tuberosum,Potatoes,Forbs
+343,Germany,Cormus domestica,Service Tree,Trees
+179,Germany,Triticum aestivum,Common Wheat,Forbs
+149,Germany,Prunus avium,Wild Cherry,Trees
+345,Germany,Cormus domestica,Service Tree,Trees
+150,Germany,Malus domestica,Apple,Trees
+150,Germany,Juglans nigra,Black Walnut,Trees
+150,Germany,Sambucus nigra,Elder,Shrubs
+150,Germany,Pyrus communis,Pear,Trees
+150,Germany,Populus spp.,Poplar,Trees
+150,Germany,Solanum tuberosum,Potatoes,Forbs
+346,Germany,Cormus domestica,Service Tree,Trees
+150,Germany,Prunus avium,Wild Cherry,Trees
+350,Germany,Cormus domestica,Service Tree,Trees
+164,Germany,Alnus spp.,Alder (general),Trees
+151,Germany,Malus domestica,Apple,Trees
+151,Germany,Fraxinus spp.,Ash,Trees
+151,Germany,Robinia pseudoacacia,Black Locust,Trees
+151,Germany,Juglans nigra,Black Walnut,Trees
+151,Germany,Rosa canina,Dog Rose,Shrubs
+151,Germany,Cornus spp.,Dogwood,Shrubs
+151,Germany,Sambucus nigra,Elder,Shrubs
+151,Germany,Ulmus spp.,Elm,Trees
+151,Germany,Corylus avellana,European Hazel,Shrubs
+151,Germany,Field grass,Field grass,Forbs
+151,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+151,Germany,Crataegus spp.,Hawthorn,Shrubs
+151,Germany,Acer spp.,Maple,Trees
+151,Germany,Avena sativa,Oats,Forbs
+151,Germany,Prunus domestica,Plum,Trees
+151,Germany,Solanum tuberosum,Potatoes,Forbs
+151,Germany,Sorbus aucuparia,Rowan,Trees
+151,Germany,Secale cereale,Rye,Forbs
+151,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+151,Germany,Castanea sativa,Sweet Chestnut,Trees
+151,Germany,Vegetables,Vegetables,Forbs
+181,Italy,Triticum aestivum,Common Wheat,Forbs
+151,Germany,Salix spp.,Willow,Trees
+152,Germany,Cornus mas,Cornelian Cherry,Shrubs
+152,Germany,Sambucus nigra,Elder,Shrubs
+152,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+152,Germany,Castanea sativa,Sweet Chestnut,Trees
+153,Germany,Malus domestica,Apple,Trees
+153,Germany,Prunus spinosa,Blackthorn,Shrubs
+153,Germany,Cornus mas,Cornelian Cherry,Shrubs
+153,Germany,Rosa canina,Dog Rose,Shrubs
+153,Germany,Sambucus nigra,Elder,Shrubs
+153,Germany,Corylus avellana,European Hazel,Shrubs
+153,Germany,Rubus idaeus,Raspberry,Shrubs
+153,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+153,Germany,Vegetables,Vegetables,Forbs
+153,Germany,Prunus avium,Wild Cherry,Trees
+153,Germany,Salix spp.,Willow,Trees
+154,Germany,Malus domestica,Apple,Trees
+154,Germany,Corylus avellana,European Hazel,Shrubs
+154,Germany,Carpinus betulus,European Hornbeam,Trees
+154,Germany,Pyrus communis,Pear,Trees
+154,Germany,Prunus domestica,Plum,Trees
+154,Germany,Rubus idaeus,Raspberry,Shrubs
+154,Germany,Sorbus aucuparia,Rowan,Trees
+154,Germany,Prunus avium,Wild Cherry,Trees
+154,Germany,Salix spp.,Willow,Trees
+155,Germany,Corylus avellana,European Hazel,Shrubs
+155,Germany,Carpinus betulus,European Hornbeam,Trees
+155,Germany,Acer spp.,Maple,Trees
+155,Germany,Pyrus communis,Pear,Trees
+155,Germany,Sorbus aucuparia,Rowan,Trees
+155,Germany,Castanea sativa,Sweet Chestnut,Trees
+155,Germany,Salix spp.,Willow,Trees
+156,Germany,Corylus avellana,European Hazel,Shrubs
+156,Germany,Rubus idaeus,Raspberry,Shrubs
+156,Germany,Castanea sativa,Sweet Chestnut,Trees
+352,Germany,Cormus domestica,Service Tree,Trees
+156,Germany,Salix spp.,Willow,Trees
+157,Germany,Malus domestica,Apple,Trees
+157,Germany,Juglans nigra,Black Walnut,Trees
+157,Germany,Corylus avellana,European Hazel,Shrubs
+157,Germany,Carpinus betulus,European Hornbeam,Trees
+157,Germany,Salix spp.,Willow,Trees
+158,Germany,Juglans nigra,Black Walnut,Trees
+158,Germany,Cornus spp.,Dogwood,Shrubs
+158,Germany,Sambucus nigra,Elder,Shrubs
+158,Germany,Ulmus spp.,Elm,Trees
+158,Germany,Carpinus betulus,European Hornbeam,Trees
+158,Germany,Tilia spp.,Lime,Trees
+158,Germany,Acer spp.,Maple,Trees
+158,Germany,Rubus idaeus,Raspberry,Shrubs
+158,Germany,Sorbus aucuparia,Rowan,Trees
+9,France,Cormus domestica,Service Tree,Trees
+158,Germany,Sorbus aria,Whitebeam,Trees
+78,Belgium,Sorbus hybrida,Swedish Service Tree,Trees
+158,Germany,Salix spp.,Willow,Trees
+159,Germany,Malus domestica,Apple,Trees
+159,Germany,Juglans nigra,Black Walnut,Trees
+159,Germany,Cornus spp.,Dogwood,Shrubs
+159,Germany,Sambucus nigra,Elder,Shrubs
+159,Germany,Ulmus spp.,Elm,Trees
+159,Germany,Carpinus betulus,European Hornbeam,Trees
+159,Germany,Tilia spp.,Lime,Trees
+159,Germany,Acer spp.,Maple,Trees
+159,Germany,Pyrus communis,Pear,Trees
+159,Germany,Sorbus aucuparia,Rowan,Trees
+58,Hungary,Sorbus torminalis,Wild Service Tree,Trees
+159,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+159,Germany,Castanea sativa,Sweet Chestnut,Trees
+159,Germany,Sorbus aria,Whitebeam,Trees
+96,Belgium,Sorbus torminalis,Wild Service Tree,Trees
+159,Germany,Salix spp.,Willow,Trees
+167,Germany,Alnus spp.,Alder (general),Trees
+160,Germany,Malus domestica,Apple,Trees
+160,Germany,Betula spp.,Birch,Trees
+160,Germany,Sambucus nigra,Elder,Shrubs
+160,Germany,Corylus avellana,European Hazel,Shrubs
+160,Germany,Tilia spp.,Lime,Trees
+160,Germany,Acer spp.,Maple,Trees
+160,Germany,Pyrus communis,Pear,Trees
+160,Germany,Prunus domestica,Plum,Trees
+160,Germany,Populus spp.,Poplar,Trees
+160,Germany,Rubus idaeus,Raspberry,Shrubs
+160,Germany,Sorbus aucuparia,Rowan,Trees
+160,Germany,Vegetables,Vegetables,Forbs
+160,Germany,Prunus avium,Wild Cherry,Trees
+160,Germany,Salix spp.,Willow,Trees
+161,Germany,Medicago sativa,Alfalfa,Forbs
+161,Germany,Juglans nigra,Black Walnut,Trees
+161,Germany,Tilia spp.,Lime,Trees
+161,Germany,Acer spp.,Maple,Trees
+161,Germany,Quercus spp.,Oak,Trees
+161,Germany,Avena sativa,Oats,Forbs
+161,Germany,Pyrus communis,Pear,Trees
+161,Germany,Rapeseed,Rapeseed,Forbs
+161,Germany,Secale cereale,Rye,Forbs
+104,Germany,Sorbus torminalis,Wild Service Tree,Trees
+185,UK,Triticum aestivum,Common Wheat,Forbs
+161,Germany,Prunus avium,Wild Cherry,Trees
+105,Germany,Sorbus torminalis,Wild Service Tree,Trees
+162,Germany,Prunus padus,Bird Cherry,Trees
+162,Germany,Juglans nigra,Black Walnut,Trees
+162,Germany,Cornus mas,Cornelian Cherry,Shrubs
+162,Germany,Cornus spp.,Dogwood,Shrubs
+162,Germany,Sambucus nigra,Elder,Shrubs
+162,Germany,Corylus avellana,European Hazel,Shrubs
+162,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+162,Germany,Acer spp.,Maple,Trees
+162,Germany,Populus spp.,Poplar,Trees
+162,Germany,Rubus idaeus,Raspberry,Shrubs
+162,Germany,Castanea sativa,Sweet Chestnut,Trees
+162,Germany,Salix spp.,Willow,Trees
+163,Germany,Medicago sativa,Alfalfa,Forbs
+163,Germany,Barley,Barley,Forbs
+163,Germany,Field beans,Field beans,Forbs
+163,Germany,Field grass,Field grass,Forbs
+163,Germany,Tilia spp.,Lime,Trees
+163,Germany,Avena sativa,Oats,Forbs
+163,Germany,Pyrus communis,Pear,Trees
+163,Germany,Solanum tuberosum,Potatoes,Forbs
+163,Germany,Secale cereale,Rye,Forbs
+107,Germany,Sorbus torminalis,Wild Service Tree,Trees
+192,UK,Triticum aestivum,Common Wheat,Forbs
+163,Germany,Prunus avium,Wild Cherry,Trees
+108,Germany,Sorbus torminalis,Wild Service Tree,Trees
+174,Germany,Alnus spp.,Alder (general),Trees
+164,Germany,Malus domestica,Apple,Trees
+164,Germany,Fraxinus spp.,Ash,Trees
+164,Germany,Betula spp.,Birch,Trees
+164,Germany,Juglans nigra,Black Walnut,Trees
+164,Germany,Cornus mas,Cornelian Cherry,Shrubs
+164,Germany,Ulmus spp.,Elm,Trees
+164,Germany,Corylus avellana,European Hazel,Shrubs
+164,Germany,Acer spp.,Maple,Trees
+164,Germany,Quercus spp.,Oak,Trees
+164,Germany,Pyrus communis,Pear,Trees
+164,Germany,Prunus domestica,Plum,Trees
+164,Germany,Populus spp.,Poplar,Trees
+164,Germany,Rubus idaeus,Raspberry,Shrubs
+164,Germany,Sorbus aucuparia,Rowan,Trees
+164,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+113,Germany,Sorbus torminalis,Wild Service Tree,Trees
+164,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+164,Germany,Castanea sativa,Sweet Chestnut,Trees
+115,Germany,Sorbus torminalis,Wild Service Tree,Trees
+164,Germany,Salix spp.,Willow,Trees
+165,Germany,Juglans nigra,Black Walnut,Trees
+165,Germany,Sambucus nigra,Elder,Shrubs
+165,Germany,Pyrus communis,Pear,Trees
+165,Germany,Prunus domestica,Plum,Trees
+166,Germany,Juglans nigra,Black Walnut,Trees
+166,Germany,Corn,Corn,Forbs
+166,Germany,Zea mays,Maize,Forbs
+166,Germany,Acer spp.,Maple,Trees
+118,Germany,Sorbus torminalis,Wild Service Tree,Trees
+166,Germany,Sunflower,Sunflower,Forbs
+121,Germany,Sorbus torminalis,Wild Service Tree,Trees
+175,Germany,Alnus spp.,Alder (general),Trees
+167,Germany,Malus domestica,Apple,Trees
+167,Germany,Robinia pseudoacacia,Black Locust,Trees
+167,Germany,Juglans nigra,Black Walnut,Trees
+167,Germany,Rosa canina,Dog Rose,Shrubs
+167,Germany,Sambucus nigra,Elder,Shrubs
+167,Germany,Malus sylvestris,European Crab Apple,Trees
+167,Germany,Pyrus communis,Pear,Trees
+167,Germany,Pyrus communis,Pear,Trees
+167,Germany,Prunus domestica,Plum,Trees
+168,Germany,Corylus avellana,European Hazel,Shrubs
+168,Germany,Carpinus betulus,European Hornbeam,Trees
+168,Germany,Quercus spp.,Oak,Trees
+168,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+169,Germany,Malus domestica,Apple,Trees
+169,Germany,Sambucus nigra,Elder,Shrubs
+169,Germany,Quercus spp.,Oak,Trees
+169,Germany,Pyrus communis,Pear,Trees
+169,Germany,Prunus domestica,Plum,Trees
+169,Germany,Prunus avium,Wild Cherry,Trees
+170,Germany,Malus domestica,Apple,Trees
+170,Germany,Solanum tuberosum,Potatoes,Forbs
+171,Germany,Malus domestica,Apple,Trees
+304,UK,Triticum aestivum,Common Wheat,Forbs
+172,Germany,Malus domestica,Apple,Trees
+172,Germany,Prunus spinosa,Blackthorn,Shrubs
+172,Germany,Rosa canina,Dog Rose,Shrubs
+172,Germany,Sambucus nigra,Elder,Shrubs
+172,Germany,Corylus avellana,European Hazel,Shrubs
+172,Germany,Carpinus betulus,European Hornbeam,Trees
+172,Germany,Crataegus spp.,Hawthorn,Shrubs
+172,Germany,Quercus spp.,Oak,Trees
+172,Germany,Pyrus communis,Pear,Trees
+172,Germany,Prunus domestica,Plum,Trees
+172,Germany,Sorbus aucuparia,Rowan,Trees
+172,Germany,Prunus avium,Wild Cherry,Trees
+173,Germany,Populus spp.,Poplar,Trees
+173,Germany,Secale cereale,Rye,Forbs
+306,UK,Triticum aestivum,Common Wheat,Forbs
+180,Czechia,Alnus spp.,Alder (general),Trees
+174,Germany,Malus domestica,Apple,Trees
+174,Germany,Rubus fruticosus,Blackberry,Shrubs
+174,Germany,Prunus spinosa,Blackthorn,Shrubs
+174,Germany,Rosa canina,Dog Rose,Shrubs
+174,Germany,Sambucus nigra,Elder,Shrubs
+174,Germany,Corylus avellana,European Hazel,Shrubs
+174,Germany,Crataegus spp.,Hawthorn,Shrubs
+174,Germany,Pyrus communis,Pear,Trees
+174,Germany,Prunus domestica,Plum,Trees
+174,Germany,Rubus idaeus,Raspberry,Shrubs
+174,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+183,UK,Alnus spp.,Alder (general),Trees
+175,Germany,Juglans nigra,Black Walnut,Trees
+175,Germany,Rosa canina,Dog Rose,Shrubs
+175,Germany,Sambucus nigra,Elder,Shrubs
+175,Germany,Ulmus spp.,Elm,Trees
+175,Germany,Crataegus spp.,Hawthorn,Shrubs
+175,Germany,Acer spp.,Maple,Trees
+175,Germany,Populus spp.,Poplar,Trees
+175,Germany,Sorbus aucuparia,Rowan,Trees
+175,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+175,Germany,Castanea sativa,Sweet Chestnut,Trees
+176,Germany,Fraxinus spp.,Ash,Trees
+176,Germany,Betula spp.,Birch,Trees
+176,Germany,Robinia pseudoacacia,Black Locust,Trees
+176,Germany,Juglans nigra,Black Walnut,Trees
+176,Germany,Corn,Corn,Forbs
+176,Germany,Ulmus spp.,Elm,Trees
+176,Germany,Tilia spp.,Lime,Trees
+176,Germany,Zea mays,Maize,Forbs
+176,Germany,Acer spp.,Maple,Trees
+176,Germany,Avena sativa,Oats,Forbs
+176,Germany,Pyrus communis,Pear,Trees
+176,Germany,Solanum tuberosum,Potatoes,Forbs
+176,Germany,Secale cereale,Rye,Forbs
+122,Germany,Sorbus torminalis,Wild Service Tree,Trees
+176,Germany,Castanea sativa,Sweet Chestnut,Trees
+307,UK,Triticum aestivum,Common Wheat,Forbs
+176,Germany,Prunus avium,Wild Cherry,Trees
+124,Germany,Sorbus torminalis,Wild Service Tree,Trees
+177,Germany,Barley,Barley,Forbs
+177,Germany,Juglans nigra,Black Walnut,Trees
+177,Germany,Corn,Corn,Forbs
+177,Germany,Tilia spp.,Lime,Trees
+177,Germany,Zea mays,Maize,Forbs
+177,Germany,Acer spp.,Maple,Trees
+177,Germany,Quercus spp.,Oak,Trees
+177,Germany,Rapeseed,Rapeseed,Forbs
+177,Germany,Castanea sativa,Sweet Chestnut,Trees
+308,UK,Triticum aestivum,Common Wheat,Forbs
+177,Germany,Prunus avium,Wild Cherry,Trees
+129,Germany,Sorbus torminalis,Wild Service Tree,Trees
+178,Germany,Medicago sativa,Alfalfa,Forbs
+178,Germany,Malus domestica,Apple,Trees
+178,Germany,Barley,Barley,Forbs
+178,Germany,Betula spp.,Birch,Trees
+178,Germany,Prunus padus,Bird Cherry,Trees
+178,Germany,Prunus spinosa,Blackthorn,Shrubs
+178,Germany,Cornus mas,Cornelian Cherry,Shrubs
+178,Germany,Rosa canina,Dog Rose,Shrubs
+178,Germany,Cornus spp.,Dogwood,Shrubs
+178,Germany,Sambucus nigra,Elder,Shrubs
+178,Germany,Ulmus spp.,Elm,Trees
+178,Germany,Corylus avellana,European Hazel,Shrubs
+178,Germany,Carpinus betulus,European Hornbeam,Trees
+178,Germany,Field grass,Field grass,Forbs
+178,Germany,Crataegus spp.,Hawthorn,Shrubs
+178,Germany,Tilia spp.,Lime,Trees
+178,Germany,Acer spp.,Maple,Trees
+178,Germany,Quercus spp.,Oak,Trees
+178,Germany,Avena sativa,Oats,Forbs
+178,Germany,Oil flax,Oil flax,Forbs
+178,Germany,Pyrus communis,Pear,Trees
+178,Germany,Pyrus communis,Pear,Trees
+178,Germany,Populus spp.,Poplar,Trees
+178,Germany,Sorbus aucuparia,Rowan,Trees
+178,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+133,Germany,Sorbus torminalis,Wild Service Tree,Trees
+178,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+178,Germany,Sunflower,Sunflower,Forbs
+178,Germany,Castanea sativa,Sweet Chestnut,Trees
+309,UK,Triticum aestivum,Common Wheat,Forbs
+178,Germany,Sorbus aria,Whitebeam,Trees
+178,Germany,Prunus avium,Wild Cherry,Trees
+135,Germany,Sorbus torminalis,Wild Service Tree,Trees
+322,Belgium,Triticum aestivum,Common Wheat,Forbs
+179,Germany,Prunus avium,Wild Cherry,Trees
+184,UK,Alnus spp.,Alder (general),Trees
+180,Czechia,Malus domestica,Apple,Trees
+180,Czechia,Fraxinus spp.,Ash,Trees
+180,Czechia,Prunus padus,Bird Cherry,Trees
+180,Czechia,Juglans nigra,Black Walnut,Trees
+180,Czechia,Rubus fruticosus,Blackberry,Shrubs
+180,Czechia,Rosa canina,Dog Rose,Shrubs
+180,Czechia,Cornus spp.,Dogwood,Shrubs
+180,Czechia,Malus sylvestris,European Crab Apple,Trees
+180,Czechia,Corylus avellana,European Hazel,Shrubs
+180,Czechia,Carpinus betulus,European Hornbeam,Trees
+180,Czechia,Tilia spp.,Lime,Trees
+180,Czechia,Acer spp.,Maple,Trees
+180,Czechia,Quercus spp.,Oak,Trees
+180,Czechia,Pyrus communis,Pear,Trees
+180,Czechia,Pyrus communis,Pear,Trees
+180,Czechia,Prunus domestica,Plum,Trees
+180,Czechia,Populus spp.,Poplar,Trees
+180,Czechia,Rubus idaeus,Raspberry,Shrubs
+180,Czechia,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+138,Germany,Sorbus torminalis,Wild Service Tree,Trees
+180,Czechia,Castanea sativa,Sweet Chestnut,Trees
+180,Czechia,Vegetables,Vegetables,Forbs
+180,Czechia,Prunus avium,Wild Cherry,Trees
+181,Italy,Triticum turgidum,Durum wheat,Forbs
+181,Italy,Quercus robur,Pedunculate Oak,Trees
+181,Italy,Populus spp.,Poplar,Trees
+336,Germany,Triticum aestivum,Common Wheat,Forbs
+182,UK,Cattle,Cattle,Animals
+182,UK,Betula pubescens,Downy Birch,Trees
+182,UK,Corylus avellana,European Hazel,Shrubs
+182,UK,Larix decidua,European Larch,Trees
+182,UK,Field grass,Field grass,Forbs
+182,UK,Goats,Goats,Animals
+182,UK,Ilex aquifolium,Holly,Shrubs
+182,UK,Quercus spp.,Oak,Trees
+182,UK,Sorbus aucuparia,Rowan,Trees
+182,UK,Pinus sylvestris,Scots Pine,Trees
+182,UK,Sheep,Sheep,Animals
+182,UK,Acer pseudoplatanus,Sycamore Maple,Trees
+192,UK,Alnus spp.,Alder (general),Trees
+183,UK,Betula spp.,Birch,Trees
+183,UK,Populus tremula,European Aspen,Trees
+183,UK,Field grass,Field grass,Forbs
+183,UK,Goats,Goats,Animals
+183,UK,Quercus spp.,Oak,Trees
+183,UK,Sorbus aucuparia,Rowan,Trees
+183,UK,Sheep,Sheep,Animals
+183,UK,Prunus avium,Wild Cherry,Trees
+193,UK,Alnus spp.,Alder (general),Trees
+184,UK,Fraxinus spp.,Ash,Trees
+184,UK,Betula spp.,Birch,Trees
+184,UK,Prunus padus,Bird Cherry,Trees
+184,UK,Prunus spinosa,Blackthorn,Shrubs
+184,UK,Cattle,Cattle,Animals
+184,UK,Crataegus monogyna,Common Hawthorn,Shrubs
+184,UK,Rosa canina,Dog Rose,Shrubs
+184,UK,Sambucus nigra,Elder,Shrubs
+184,UK,Populus tremula,European Aspen,Trees
+184,UK,Fagus sylvatica,European Beech,Trees
+184,UK,Malus sylvestris,European Crab Apple,Trees
+184,UK,Corylus avellana,European Hazel,Shrubs
+184,UK,Carpinus betulus,European Hornbeam,Trees
+184,UK,Field grass,Field grass,Forbs
+184,UK,Salix caprea,Goat Willow,Shrubs
+184,UK,Quercus spp.,Oak,Trees
+184,UK,Sorbus aucuparia,Rowan,Trees
+184,UK,Pinus sylvestris,Scots Pine,Trees
+184,UK,Tilia cordata,Small-leaved Lime,Trees
+184,UK,Euonymus europaeus,Spindle,Shrubs
+184,UK,Castanea sativa,Sweet Chestnut,Trees
+184,UK,Acer pseudoplatanus,Sycamore Maple,Trees
+184,UK,Sorbus aria,Whitebeam,Trees
+184,UK,Prunus avium,Wild Cherry,Trees
+185,UK,Fraxinus spp.,Ash,Trees
+185,UK,Barley,Barley,Forbs
+185,UK,Juglans nigra,Black Walnut,Trees
+185,UK,Corylus avellana,European Hazel,Shrubs
+185,UK,Field beans,Field beans,Forbs
+185,UK,Avena sativa,Oats,Forbs
+185,UK,Populus spp.,Poplar,Trees
+185,UK,Rapeseed,Rapeseed,Forbs
+185,UK,Acer pseudoplatanus,Sycamore Maple,Trees
+341,Germany,Triticum aestivum,Common Wheat,Forbs
+185,UK,Prunus avium,Wild Cherry,Trees
+186,UK,Fraxinus spp.,Ash,Trees
+186,UK,Morus nigra,Black Mulberry,Trees
+186,UK,Juglans nigra,Black Walnut,Trees
+186,UK,Cattle,Cattle,Animals
+186,UK,Ulmus spp.,Elm,Trees
+186,UK,Field grass,Field grass,Forbs
+186,UK,Paulownia tomentosa,Princess Tree,Trees
+141,Germany,Sorbus torminalis,Wild Service Tree,Trees
+187,UK,Prunus padus,Bird Cherry,Trees
+187,UK,Juglans nigra,Black Walnut,Trees
+187,UK,Ligustrum vulgare,Common Privet,Trees
+187,UK,Ligustrum vulgare,Common Privet,Shrubs
+187,UK,Populus tremula,European Aspen,Trees
+187,UK,Malus sylvestris,European Crab Apple,Trees
+187,UK,Corylus avellana,European Hazel,Shrubs
+187,UK,Carpinus betulus,European Hornbeam,Trees
+187,UK,Field grass,Field grass,Forbs
+187,UK,Acer campestre,Field Maple,Trees
+187,UK,Goats,Goats,Animals
+187,UK,Quercus spp.,Oak,Trees
+187,UK,Sheep,Sheep,Animals
+187,UK,Betula pendula,Silver Birch,Trees
+187,UK,Tilia cordata,Small-leaved Lime,Trees
+187,UK,Castanea sativa,Sweet Chestnut,Trees
+187,UK,Prunus avium,Wild Cherry,Trees
+188,UK,Amelanchier laevis,Allegheny Serviceberry,Shrubs
+188,UK,Malus domestica,Apple,Trees
+188,UK,Sorbus x Aronia melanocarpa,Aronia,Shrubs
+188,UK,Elaeagnus umbellata,Autumn Olive,Shrubs
+188,UK,Prunus serotina,Black Cherry,Shrubs
+188,UK,Sambucus nigra,Elder,Shrubs
+188,UK,Field grass,Field grass,Forbs
+188,UK,Flowers,Flowers,Forbs
+188,UK,Goats,Goats,Animals
+188,UK,Salix hybrid,Hybrid Willow,Shrubs
+188,UK,Ornamental plants,Ornamental plants,Forbs
+188,UK,Quercus robur,Pedunculate Oak,Trees
+188,UK,Juglans regia,Persian Walnut,Trees
+188,UK,Poultry,Poultry,Animals
+188,UK,Pinus sylvestris,Scots Pine,Trees
+188,UK,Sheep,Sheep,Animals
+189,UK,Juglans nigra,Black Walnut,Trees
+189,UK,Field grass,Field grass,Forbs
+189,UK,Goats,Goats,Animals
+189,UK,Sheep,Sheep,Animals
+190,UK,Juglans nigra,Black Walnut,Trees
+190,UK,Cattle,Cattle,Animals
+190,UK,Ribes spp.,Currant,Shrubs
+190,UK,Corylus avellana,European Hazel,Shrubs
+190,UK,Field grass,Field grass,Forbs
+190,UK,Pyrus communis,Pear,Trees
+190,UK,Prunus domestica,Plum,Trees
+191,UK,Prunus amygdalus,Almond,Trees
+191,UK,Cattle,Cattle,Animals
+191,UK,Field grass,Field grass,Forbs
+191,UK,Grapevine,Grapevine,Forbs
+191,UK,Pyrus communis,Pear,Trees
+191,UK,Juglans regia,Persian Walnut,Trees
+191,UK,Pigs,Pigs,Animals
+191,UK,Prunus domestica,Plum,Trees
+191,UK,Poultry,Poultry,Animals
+191,UK,Cydonia oblonga,Quince,Trees
+191,UK,Rubus idaeus,Raspberry,Shrubs
+191,UK,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+191,UK,Vegetables,Vegetables,Forbs
+191,UK,Prunus avium,Wild Cherry,Trees
+194,UK,Alnus spp.,Alder (general),Trees
+192,UK,Fraxinus spp.,Ash,Trees
+192,UK,Barley,Barley,Forbs
+192,UK,Juglans nigra,Black Walnut,Trees
+192,UK,Cattle,Cattle,Animals
+192,UK,Carpinus betulus,European Hornbeam,Trees
+192,UK,Field grass,Field grass,Forbs
+192,UK,Acer campestre,Field Maple,Trees
+192,UK,Goats,Goats,Animals
+192,UK,Tilia spp.,Lime,Trees
+192,UK,Acer platanoides,Norway Maple,Trees
+192,UK,Quercus spp.,Oak,Trees
+192,UK,Sheep,Sheep,Animals
+192,UK,Castanea sativa,Sweet Chestnut,Trees
+342,Germany,Triticum aestivum,Common Wheat,Forbs
+192,UK,Prunus avium,Wild Cherry,Trees
+205,Belgium,Alnus spp.,Alder (general),Trees
+193,UK,Crataegus monogyna,Common Hawthorn,Shrubs
+193,UK,Rosa canina,Dog Rose,Shrubs
+193,UK,Cornus spp.,Dogwood,Shrubs
+193,UK,Ulmus spp.,Elm,Trees
+193,UK,Populus tremula,European Aspen,Trees
+193,UK,Malus sylvestris,European Crab Apple,Trees
+193,UK,Corylus avellana,European Hazel,Shrubs
+193,UK,Carpinus betulus,European Hornbeam,Trees
+193,UK,Field grass,Field grass,Forbs
+193,UK,Acer campestre,Field Maple,Trees
+193,UK,Salix caprea,Goat Willow,Shrubs
+193,UK,Goats,Goats,Animals
+193,UK,Ilex aquifolium,Holly,Shrubs
+193,UK,Quercus robur,Pedunculate Oak,Trees
+193,UK,Sorbus aucuparia,Rowan,Trees
+193,UK,Sheep,Sheep,Animals
+193,UK,Betula pendula,Silver Birch,Trees
+193,UK,Tilia cordata,Small-leaved Lime,Trees
+193,UK,Euonymus europaeus,Spindle,Shrubs
+193,UK,Prunus avium,Wild Cherry,Trees
+208,Belgium,Alnus spp.,Alder (general),Trees
+194,UK,Malus domestica,Apple,Trees
+194,UK,Juglans nigra,Black Walnut,Trees
+194,UK,Cattle,Cattle,Animals
+194,UK,Betula pubescens,Downy Birch,Trees
+194,UK,Sambucus nigra,Elder,Shrubs
+194,UK,Ulmus spp.,Elm,Trees
+194,UK,Corylus avellana,European Hazel,Shrubs
+194,UK,Field grass,Field grass,Forbs
+194,UK,Acer campestre,Field Maple,Trees
+194,UK,Salix caprea,Goat Willow,Shrubs
+194,UK,Ilex aquifolium,Holly,Shrubs
+194,UK,Tilia spp.,Lime,Trees
+194,UK,Quercus spp.,Oak,Trees
+194,UK,Pinus sylvestris,Scots Pine,Trees
+194,UK,Euonymus europaeus,Spindle,Shrubs
+194,UK,Castanea sativa,Sweet Chestnut,Trees
+195,Belgium,Malus domestica,Apple,Trees
+195,Belgium,Field grass,Field grass,Forbs
+195,Belgium,Pyrus communis,Pear,Trees
+195,Belgium,Juglans regia,Persian Walnut,Trees
+195,Belgium,Pigs,Pigs,Animals
+195,Belgium,Castanea sativa,Sweet Chestnut,Trees
+195,Belgium,Prunus avium,Wild Cherry,Trees
+211,Belgium,Alnus spp.,Alder (general),Trees
+229,Belgium,Alnus spp.,Alder (general),Trees
+196,Belgium,Robinia pseudoacacia,Black Locust,Trees
+196,Belgium,Prunus spinosa,Blackthorn,Shrubs
+196,Belgium,Cornus spp.,Dogwood,Shrubs
+196,Belgium,Sambucus nigra,Elder,Shrubs
+196,Belgium,Corylus avellana,European Hazel,Shrubs
+196,Belgium,Field grass,Field grass,Forbs
+196,Belgium,Salix caprea,Goat Willow,Shrubs
+196,Belgium,Viburnum opulus,Guelder-rose,Shrubs
+196,Belgium,Crataegus spp.,Hawthorn,Shrubs
+196,Belgium,Quercus robur,Pedunculate Oak,Trees
+196,Belgium,Rubus idaeus,Raspberry,Shrubs
+196,Belgium,Viburnum lantana,Wayfaring-tree,Shrubs
+236,Germany,Alnus spp.,Alder (general),Trees
+197,Belgium,Malus domestica,Apple,Trees
+197,Belgium,Cattle,Cattle,Animals
+197,Belgium,Field grass,Field grass,Forbs
+197,Belgium,Acer campestre,Field Maple,Trees
+197,Belgium,Crataegus spp.,Hawthorn,Shrubs
+197,Belgium,Crataegus germanica,Medlar,Trees
+197,Belgium,Pyrus communis,Pear,Trees
+197,Belgium,Prunus avium,Wild Cherry,Trees
+198,Belgium,Malus domestica,Apple,Trees
+198,Belgium,Prunus spinosa,Blackthorn,Shrubs
+198,Belgium,Cattle,Cattle,Animals
+198,Belgium,Field grass,Field grass,Forbs
+198,Belgium,Goats,Goats,Animals
+198,Belgium,Crataegus spp.,Hawthorn,Shrubs
+198,Belgium,Pyrus communis,Pear,Trees
+198,Belgium,Prunus domestica,Plum,Trees
+198,Belgium,Populus spp.,Poplar,Trees
+198,Belgium,Sheep,Sheep,Animals
+198,Belgium,Castanea sativa,Sweet Chestnut,Trees
+198,Belgium,Salix spp.,Willow,Trees
+199,Belgium,Malus domestica,Apple,Trees
+199,Belgium,Goats,Goats,Animals
+199,Belgium,Pyrus communis,Pear,Trees
+199,Belgium,Juglans regia,Persian Walnut,Trees
+199,Belgium,Prunus domestica,Plum,Trees
+199,Belgium,Sheep,Sheep,Animals
+199,Belgium,Prunus avium,Wild Cherry,Trees
+200,Belgium,Malus domestica,Apple,Trees
+200,Belgium,Cattle,Cattle,Animals
+200,Belgium,Corylus avellana,European Hazel,Shrubs
+200,Belgium,Field grass,Field grass,Forbs
+200,Belgium,Pyrus communis,Pear,Trees
+200,Belgium,Juglans regia,Persian Walnut,Trees
+200,Belgium,Prunus domestica,Plum,Trees
+250,Germany,Alnus spp.,Alder (general),Trees
+201,Belgium,Field grass,Field grass,Forbs
+201,Belgium,Acer campestre,Field Maple,Trees
+201,Belgium,Poultry,Poultry,Animals
+201,Belgium,Sorbus aucuparia,Rowan,Trees
+201,Belgium,Quercus petraea,Sessile Oak,Trees
+201,Belgium,Tilia cordata,Small-leaved Lime,Trees
+202,Belgium,Malus domestica,Apple,Trees
+202,Belgium,Field grass,Field grass,Forbs
+202,Belgium,Goats,Goats,Animals
+202,Belgium,Pyrus communis,Pear,Trees
+202,Belgium,Quercus robur,Pedunculate Oak,Trees
+202,Belgium,Juglans regia,Persian Walnut,Trees
+202,Belgium,Sheep,Sheep,Animals
+202,Belgium,Castanea sativa,Sweet Chestnut,Trees
+203,Belgium,Malus domestica,Apple,Trees
+203,Belgium,Cattle,Cattle,Animals
+203,Belgium,Corylus avellana,European Hazel,Shrubs
+203,Belgium,Field grass,Field grass,Forbs
+203,Belgium,Poultry,Poultry,Animals
+204,Belgium,Malus domestica,Apple,Trees
+204,Belgium,Cattle,Cattle,Animals
+204,Belgium,Rosa canina,Dog Rose,Shrubs
+204,Belgium,Sambucus nigra,Elder,Shrubs
+204,Belgium,Ulmus spp.,Elm,Trees
+204,Belgium,Field grass,Field grass,Forbs
+204,Belgium,Pyrus communis,Pear,Trees
+204,Belgium,Prunus domestica,Plum,Trees
+204,Belgium,Cydonia oblonga,Quince,Trees
+204,Belgium,Prunus avium,Wild Cherry,Trees
+252,Germany,Alnus spp.,Alder (general),Trees
+205,Belgium,Malus domestica,Apple,Trees
+205,Belgium,Field grass,Field grass,Forbs
+205,Belgium,Pyrus communis,Pear,Trees
+205,Belgium,Juglans regia,Persian Walnut,Trees
+206,Belgium,Field grass,Field grass,Forbs
+206,Belgium,Olea europaea,Olive,Trees
+206,Belgium,Poultry,Poultry,Animals
+207,Belgium,Betula spp.,Birch,Trees
+207,Belgium,Rubus fruticosus,Blackberry,Shrubs
+207,Belgium,Vaccinium spp.,Blueberry,Shrubs
+207,Belgium,Ribes spp.,Currant,Shrubs
+207,Belgium,Tilia spp.,Lime,Trees
+207,Belgium,Rubus idaeus,Raspberry,Shrubs
+207,Belgium,Quercus petraea,Sessile Oak,Trees
+274,Germany,Alnus spp.,Alder (general),Trees
+208,Belgium,Malus domestica,Apple,Trees
+208,Belgium,Cattle,Cattle,Animals
+208,Belgium,Fagus sylvatica,European Beech,Trees
+208,Belgium,Corylus avellana,European Hazel,Shrubs
+208,Belgium,Field grass,Field grass,Forbs
+208,Belgium,Quercus spp.,Oak,Trees
+208,Belgium,Juglans regia,Persian Walnut,Trees
+208,Belgium,Populus spp.,Poplar,Trees
+208,Belgium,Castanea sativa,Sweet Chestnut,Trees
+149,Germany,Sorbus torminalis,Wild Service Tree,Trees
+297,Germany,Alnus spp.,Alder (general),Trees
+209,Belgium,Corylus avellana,European Hazel,Shrubs
+209,Belgium,Field grass,Field grass,Forbs
+209,Belgium,Goats,Goats,Animals
+209,Belgium,Populus spp.,Poplar,Trees
+209,Belgium,Sheep,Sheep,Animals
+300,Germany,Alnus spp.,Alder (general),Trees
+210,Belgium,Cattle,Cattle,Animals
+210,Belgium,Field grass,Field grass,Forbs
+210,Belgium,Crataegus spp.,Hawthorn,Shrubs
+210,Belgium,Salix spp.,Willow,Trees
+306,UK,Alnus spp.,Alder (general),Trees
+308,UK,Alnus spp.,Alder (general),Trees
+211,Belgium,Malus domestica,Apple,Trees
+211,Belgium,Cornus spp.,Dogwood,Shrubs
+211,Belgium,Field grass,Field grass,Forbs
+211,Belgium,Goats,Goats,Animals
+211,Belgium,Crataegus spp.,Hawthorn,Shrubs
+211,Belgium,Pyrus communis,Pear,Trees
+211,Belgium,Prunus domestica,Plum,Trees
+211,Belgium,Poultry,Poultry,Animals
+211,Belgium,Sheep,Sheep,Animals
+211,Belgium,Euonymus europaeus,Spindle,Trees
+211,Belgium,Prunus avium,Wild Cherry,Trees
+212,Belgium,Malus domestica,Apple,Trees
+212,Belgium,Elaeagnus umbellata,Autumn Olive,Shrubs
+212,Belgium,Field grass,Field grass,Forbs
+212,Belgium,Goats,Goats,Animals
+212,Belgium,Pyrus communis,Pear,Trees
+212,Belgium,Juglans regia,Persian Walnut,Trees
+212,Belgium,Pigs,Pigs,Animals
+212,Belgium,Poultry,Poultry,Animals
+212,Belgium,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+212,Belgium,Sheep,Sheep,Animals
+212,Belgium,Caragana arborescens,Siberian Pea-tree,Shrubs
+212,Belgium,Corylus colurna,Turkish Hazel,Trees
+213,Belgium,Field grass,Field grass,Forbs
+213,Belgium,Goats,Goats,Animals
+213,Belgium,Crataegus spp.,Hawthorn,Shrubs
+213,Belgium,Sheep,Sheep,Animals
+213,Belgium,Castanea sativa,Sweet Chestnut,Trees
+214,Belgium,Field grass,Field grass,Forbs
+214,Belgium,Crataegus spp.,Hawthorn,Shrubs
+214,Belgium,Quercus spp.,Oak,Trees
+215,Belgium,Cattle,Cattle,Animals
+215,Belgium,Field grass,Field grass,Forbs
+215,Belgium,Juglans regia,Persian Walnut,Trees
+216,Belgium,Malus domestica,Apple,Trees
+216,Belgium,Cattle,Cattle,Animals
+216,Belgium,Corylus avellana,European Hazel,Shrubs
+216,Belgium,Field grass,Field grass,Forbs
+216,Belgium,Salix caprea,Goat Willow,Shrubs
+216,Belgium,Pyrus communis,Pear,Trees
+216,Belgium,Juglans regia,Persian Walnut,Trees
+216,Belgium,Prunus domestica,Plum,Trees
+216,Belgium,Castanea sativa,Sweet Chestnut,Trees
+216,Belgium,Prunus avium,Wild Cherry,Trees
+217,Belgium,Field grass,Field grass,Forbs
+217,Belgium,Populus spp.,Poplar,Trees
+217,Belgium,Poultry,Poultry,Animals
+217,Belgium,Salix spp.,Willow,Trees
+218,Belgium,Prunus amygdalus,Almond,Trees
+218,Belgium,Malus domestica,Apple,Trees
+218,Belgium,Prunus armeniaca,Apricot,Trees
+218,Belgium,Elaeagnus umbellata,Autumn Olive,Shrubs
+218,Belgium,Ribes spp.,Currant,Shrubs
+218,Belgium,Field grass,Field grass,Forbs
+218,Belgium,Goats,Goats,Animals
+218,Belgium,Lonicera caerulea,Honeyberry,Shrubs
+218,Belgium,Prunus persica,Peach,Trees
+218,Belgium,Pyrus communis,Pear,Trees
+218,Belgium,Juglans regia,Persian Walnut,Trees
+218,Belgium,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+218,Belgium,Sheep,Sheep,Animals
+218,Belgium,Castanea sativa,Sweet Chestnut,Trees
+218,Belgium,Prunus avium,Wild Cherry,Trees
+219,Belgium,Malus domestica,Apple,Trees
+219,Belgium,Fagus sylvatica,European Beech,Trees
+219,Belgium,Field grass,Field grass,Forbs
+219,Belgium,Quercus spp.,Oak,Trees
+219,Belgium,Juglans regia,Persian Walnut,Trees
+219,Belgium,Poultry,Poultry,Animals
+219,Belgium,Castanea sativa,Sweet Chestnut,Trees
+220,Belgium,Malus domestica,Apple,Trees
+220,Belgium,Cattle,Cattle,Animals
+220,Belgium,Clover,Clover,Forbs
+220,Belgium,Sambucus nigra,Elder,Shrubs
+220,Belgium,Corylus avellana,European Hazel,Shrubs
+220,Belgium,Field grass,Field grass,Forbs
+220,Belgium,Salix caprea,Goat Willow,Shrubs
+220,Belgium,Goats,Goats,Animals
+220,Belgium,Quercus robur,Pedunculate Oak,Trees
+220,Belgium,Pigs,Pigs,Animals
+220,Belgium,Sheep,Sheep,Animals
+220,Belgium,Castanea sativa,Sweet Chestnut,Trees
+221,Belgium,Malus domestica,Apple,Trees
+221,Belgium,Clover,Clover,Forbs
+221,Belgium,Sambucus nigra,Elder,Shrubs
+221,Belgium,Populus tremula,European Aspen,Trees
+221,Belgium,Field grass,Field grass,Forbs
+221,Belgium,Goats,Goats,Animals
+221,Belgium,Pyrus communis,Pear,Trees
+221,Belgium,Prunus domestica,Plum,Trees
+221,Belgium,Poultry,Poultry,Animals
+221,Belgium,Cydonia oblonga,Quince,Trees
+221,Belgium,Sheep,Sheep,Animals
+150,Germany,Sorbus torminalis,Wild Service Tree,Trees
+222,Belgium,Cattle,Cattle,Animals
+222,Belgium,Corylus avellana,European Hazel,Shrubs
+222,Belgium,Field grass,Field grass,Forbs
+222,Belgium,Juglans regia,Persian Walnut,Trees
+222,Belgium,Corylus colurna,Turkish Hazel,Trees
+223,Belgium,Malus domestica,Apple,Trees
+223,Belgium,Prunus spinosa,Blackthorn,Shrubs
+223,Belgium,Cattle,Cattle,Animals
+223,Belgium,Cornus spp.,Dogwood,Shrubs
+223,Belgium,Carpinus betulus,European Hornbeam,Trees
+223,Belgium,Field grass,Field grass,Forbs
+223,Belgium,Acer campestre,Field Maple,Trees
+223,Belgium,Rosa arvensis,Field Rose,Shrubs
+223,Belgium,Crataegus spp.,Hawthorn,Shrubs
+223,Belgium,Pyrus communis,Pear,Trees
+223,Belgium,Quercus robur,Pedunculate Oak,Trees
+223,Belgium,Juglans regia,Persian Walnut,Trees
+223,Belgium,Prunus domestica,Plum,Trees
+223,Belgium,Tilia cordata,Small-leaved Lime,Trees
+223,Belgium,Prunus cerasus,Sour Cherry,Trees
+224,Belgium,Malus domestica,Apple,Trees
+224,Belgium,Field grass,Field grass,Forbs
+224,Belgium,Pyrus communis,Pear,Trees
+224,Belgium,Juglans regia,Persian Walnut,Trees
+224,Belgium,Prunus domestica,Plum,Trees
+224,Belgium,Poultry,Poultry,Animals
+224,Belgium,Castanea sativa,Sweet Chestnut,Trees
+224,Belgium,Prunus avium,Wild Cherry,Trees
+309,UK,Alnus spp.,Alder (general),Trees
+225,Belgium,Betula spp.,Birch,Trees
+225,Belgium,Cornus spp.,Dogwood,Shrubs
+225,Belgium,Corylus avellana,European Hazel,Shrubs
+225,Belgium,Carpinus betulus,European Hornbeam,Trees
+225,Belgium,Field grass,Field grass,Forbs
+225,Belgium,Acer campestre,Field Maple,Trees
+225,Belgium,Goats,Goats,Animals
+225,Belgium,Viburnum opulus,Guelder-rose,Shrubs
+225,Belgium,Crataegus germanica,Medlar,Trees
+225,Belgium,Juglans regia,Persian Walnut,Trees
+225,Belgium,Pigs,Pigs,Animals
+225,Belgium,Poultry,Poultry,Animals
+225,Belgium,Cydonia oblonga,Quince,Trees
+225,Belgium,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+225,Belgium,Sheep,Sheep,Animals
+225,Belgium,Euonymus europaeus,Spindle,Trees
+225,Belgium,Salix spp.,Willow,Trees
+226,Belgium,Malus domestica,Apple,Trees
+226,Belgium,Cattle,Cattle,Animals
+226,Belgium,Field grass,Field grass,Forbs
+226,Belgium,Pyrus communis,Pear,Trees
+227,Belgium,Malus domestica,Apple,Trees
+227,Belgium,Sambucus nigra,Elder,Shrubs
+227,Belgium,Corylus avellana,European Hazel,Shrubs
+227,Belgium,Field grass,Field grass,Forbs
+227,Belgium,Goats,Goats,Animals
+227,Belgium,Pyrus communis,Pear,Trees
+227,Belgium,Juglans regia,Persian Walnut,Trees
+227,Belgium,Prunus domestica,Plum,Trees
+227,Belgium,Poultry,Poultry,Animals
+227,Belgium,Sheep,Sheep,Animals
+227,Belgium,Castanea sativa,Sweet Chestnut,Trees
+227,Belgium,Prunus avium,Wild Cherry,Trees
+227,Belgium,Salix spp.,Willow,Trees
+228,Belgium,Malus domestica,Apple,Trees
+228,Belgium,Prunus spinosa,Blackthorn,Shrubs
+228,Belgium,Cattle,Cattle,Animals
+228,Belgium,Corylus avellana,European Hazel,Shrubs
+228,Belgium,Field grass,Field grass,Forbs
+228,Belgium,Quercus spp.,Oak,Trees
+228,Belgium,Pyrus communis,Pear,Trees
+228,Belgium,Juglans regia,Persian Walnut,Trees
+228,Belgium,Prunus domestica,Plum,Trees
+228,Belgium,Castanea sativa,Sweet Chestnut,Trees
+315,Belgium,Alnus spp.,Alder (general),Trees
+229,Belgium,Malus domestica,Apple,Trees
+229,Belgium,Cornus spp.,Dogwood,Shrubs
+229,Belgium,Corylus avellana,European Hazel,Shrubs
+229,Belgium,Field grass,Field grass,Forbs
+229,Belgium,Goats,Goats,Animals
+229,Belgium,Pyrus communis,Pear,Trees
+229,Belgium,Juglans regia,Persian Walnut,Trees
+229,Belgium,Sheep,Sheep,Animals
+230,Belgium,Malus domestica,Apple,Trees
+230,Belgium,Field grass,Field grass,Forbs
+230,Belgium,Goats,Goats,Animals
+230,Belgium,Pyrus communis,Pear,Trees
+230,Belgium,Sheep,Sheep,Animals
+329,Germany,Alnus spp.,Alder (general),Trees
+231,Italy,Cytisus scoparius,Common Broom,Shrubs
+231,Italy,Crataegus monogyna,Common Hawthorn,Trees
+231,Italy,Malus sylvestris,European Crab Apple,Trees
+231,Italy,Acer campestre,Field Maple,Trees
+231,Italy,Populus spp.,Poplar,Trees
+231,Italy,Morus alba,White Mulberry,Trees
+232,Italy,Quercus ilex,Holm Oak,Trees
+232,Italy,Pigs,Pigs,Animals
+232,Italy,Poultry,Poultry,Animals
+232,Italy,Quercus cerris,Turkey Oak,Trees
+233,Italy,Vitis vinifera,Grapevine,Trees
+233,Italy,Poultry,Poultry,Animals
+234,Italy,Goats,Goats,Animals
+234,Italy,Olea europaea,Olive,Trees
+234,Italy,Sheep,Sheep,Animals
+235,Germany,Malus domestica,Apple,Trees
+235,Germany,Goats,Goats,Animals
+235,Germany,Pyrus communis,Pear,Trees
+235,Germany,Prunus domestica,Plum,Trees
+235,Germany,Sheep,Sheep,Animals
+235,Germany,Prunus avium,Wild Cherry,Trees
+333,Germany,Alnus spp.,Alder (general),Trees
+236,Germany,Juglans nigra,Black Walnut,Trees
+236,Germany,Cattle,Cattle,Animals
+236,Germany,Sambucus nigra,Elder,Shrubs
+236,Germany,Corylus avellana,European Hazel,Shrubs
+236,Germany,Acer spp.,Maple,Trees
+236,Germany,Pyrus communis,Pear,Trees
+236,Germany,Sorbus aucuparia,Rowan,Trees
+156,Germany,Sorbus torminalis,Wild Service Tree,Trees
+236,Germany,Castanea sativa,Sweet Chestnut,Trees
+236,Germany,Morus alba,White Mulberry,Trees
+237,Germany,Populus spp.,Poplar,Trees
+237,Germany,Poultry,Poultry,Animals
+238,Germany,Populus spp.,Poplar,Trees
+238,Germany,Poultry,Poultry,Animals
+239,Germany,Populus spp.,Poplar,Trees
+239,Germany,Poultry,Poultry,Animals
+240,Germany,Sambucus nigra,Elder,Shrubs
+240,Germany,Populus spp.,Poplar,Trees
+240,Germany,Poultry,Poultry,Animals
+240,Germany,Salix spp.,Willow,Trees
+241,Germany,Populus spp.,Poplar,Trees
+241,Germany,Poultry,Poultry,Animals
+242,Germany,Malus domestica,Apple,Trees
+242,Germany,Cornus mas,Cornelian Cherry,Shrubs
+242,Germany,Sambucus nigra,Elder,Shrubs
+242,Germany,Pyrus communis,Pear,Trees
+242,Germany,Prunus domestica,Plum,Trees
+242,Germany,Poultry,Poultry,Animals
+242,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+242,Germany,Prunus avium,Wild Cherry,Trees
+243,Germany,Malus domestica,Apple,Trees
+243,Germany,Goats,Goats,Animals
+243,Germany,Sheep,Sheep,Animals
+244,Germany,Malus domestica,Apple,Trees
+244,Germany,Cattle,Cattle,Animals
+244,Germany,Quercus spp.,Oak,Trees
+244,Germany,Pyrus communis,Pear,Trees
+244,Germany,Prunus domestica,Plum,Trees
+244,Germany,Castanea sativa,Sweet Chestnut,Trees
+244,Germany,Prunus avium,Wild Cherry,Trees
+245,Germany,Malus domestica,Apple,Trees
+245,Germany,Rubus fruticosus,Blackberry,Shrubs
+245,Germany,Cattle,Cattle,Animals
+245,Germany,Pyrus communis,Pear,Trees
+245,Germany,Prunus domestica,Plum,Trees
+245,Germany,Prunus avium,Wild Cherry,Trees
+246,Germany,Populus spp.,Poplar,Trees
+246,Germany,Poultry,Poultry,Animals
+247,Germany,Populus spp.,Poplar,Trees
+247,Germany,Poultry,Poultry,Animals
+248,Germany,Juglans nigra,Black Walnut,Trees
+248,Germany,Sambucus nigra,Elder,Shrubs
+248,Germany,Corylus avellana,European Hazel,Shrubs
+249,Germany,Juglans nigra,Black Walnut,Trees
+249,Germany,Goats,Goats,Animals
+249,Germany,Sheep,Sheep,Animals
+339,Germany,Alnus spp.,Alder (general),Trees
+341,Germany,Alnus spp.,Alder (general),Trees
+250,Germany,Malus domestica,Apple,Trees
+250,Germany,Betula spp.,Birch,Trees
+250,Germany,Juglans nigra,Black Walnut,Trees
+250,Germany,Prunus spinosa,Blackthorn,Shrubs
+250,Germany,Cornus mas,Cornelian Cherry,Shrubs
+250,Germany,Rosa canina,Dog Rose,Shrubs
+250,Germany,Cornus spp.,Dogwood,Shrubs
+250,Germany,Sambucus nigra,Elder,Shrubs
+250,Germany,Malus sylvestris,European Crab Apple,Trees
+250,Germany,Corylus avellana,European Hazel,Shrubs
+250,Germany,Acer spp.,Maple,Trees
+250,Germany,Pyrus communis,Pear,Trees
+250,Germany,Pyrus communis,Pear,Trees
+250,Germany,Prunus domestica,Plum,Trees
+250,Germany,Populus spp.,Poplar,Trees
+250,Germany,Rubus idaeus,Raspberry,Shrubs
+250,Germany,Sorbus aucuparia,Rowan,Trees
+158,Germany,Sorbus torminalis,Wild Service Tree,Trees
+250,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+250,Germany,Castanea sativa,Sweet Chestnut,Trees
+250,Germany,Sorbus aria,Whitebeam,Trees
+250,Germany,Prunus avium,Wild Cherry,Trees
+159,Germany,Sorbus torminalis,Wild Service Tree,Trees
+250,Germany,Salix spp.,Willow,Trees
+251,Germany,Juglans nigra,Black Walnut,Trees
+251,Germany,Cattle,Cattle,Animals
+251,Germany,Crataegus spp.,Hawthorn,Shrubs
+251,Germany,Acer spp.,Maple,Trees
+251,Germany,Poultry,Poultry,Animals
+251,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+161,Germany,Sorbus torminalis,Wild Service Tree,Trees
+163,Germany,Sorbus torminalis,Wild Service Tree,Trees
+251,Germany,Salix spp.,Willow,Trees
+349,Germany,Alnus spp.,Alder (general),Trees
+252,Germany,Prunus spinosa,Blackthorn,Shrubs
+252,Germany,Carpinus betulus,European Hornbeam,Trees
+252,Germany,Tilia spp.,Lime,Trees
+252,Germany,Populus spp.,Poplar,Trees
+252,Germany,Poultry,Poultry,Animals
+252,Germany,Salix spp.,Willow,Trees
+253,Germany,Rosa canina,Dog Rose,Shrubs
+253,Germany,Cornus spp.,Dogwood,Shrubs
+253,Germany,Crataegus spp.,Hawthorn,Shrubs
+253,Germany,Populus spp.,Poplar,Trees
+253,Germany,Poultry,Poultry,Animals
+254,Germany,Malus domestica,Apple,Trees
+254,Germany,Cornus spp.,Dogwood,Shrubs
+254,Germany,Sambucus nigra,Elder,Shrubs
+254,Germany,Corylus avellana,European Hazel,Shrubs
+254,Germany,Goats,Goats,Animals
+254,Germany,Tilia spp.,Lime,Trees
+254,Germany,Pyrus communis,Pear,Trees
+254,Germany,Prunus domestica,Plum,Trees
+254,Germany,Sorbus aucuparia,Rowan,Trees
+254,Germany,Sheep,Sheep,Animals
+254,Germany,Castanea sativa,Sweet Chestnut,Trees
+254,Germany,Prunus avium,Wild Cherry,Trees
+255,Germany,Populus spp.,Poplar,Trees
+255,Germany,Poultry,Poultry,Animals
+256,Germany,Populus spp.,Poplar,Trees
+256,Germany,Poultry,Poultry,Animals
+257,Germany,Populus spp.,Poplar,Trees
+257,Germany,Poultry,Poultry,Animals
+258,Germany,Juglans nigra,Black Walnut,Trees
+258,Germany,Cattle,Cattle,Animals
+258,Germany,Castanea sativa,Sweet Chestnut,Trees
+259,Germany,Juglans nigra,Black Walnut,Trees
+259,Germany,Rubus fruticosus,Blackberry,Shrubs
+259,Germany,Cattle,Cattle,Animals
+259,Germany,Corylus avellana,European Hazel,Shrubs
+259,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+164,Germany,Sorbus torminalis,Wild Service Tree,Trees
+260,Germany,Cattle,Cattle,Animals
+260,Germany,Juglans regia,Persian Walnut,Trees
+260,Germany,Castanea sativa,Sweet Chestnut,Trees
+261,Germany,Juglans nigra,Black Walnut,Trees
+261,Germany,Poultry,Poultry,Animals
+262,Germany,Populus spp.,Poplar,Trees
+262,Germany,Poultry,Poultry,Animals
+263,Germany,Populus spp.,Poplar,Trees
+263,Germany,Poultry,Poultry,Animals
+264,Germany,Malus domestica,Apple,Trees
+264,Germany,Prunus padus,Bird Cherry,Trees
+264,Germany,Juglans nigra,Black Walnut,Trees
+264,Germany,Rubus fruticosus,Blackberry,Shrubs
+264,Germany,Vaccinium spp.,Blueberry,Shrubs
+264,Germany,Cattle,Cattle,Animals
+264,Germany,Cornus mas,Cornelian Cherry,Shrubs
+264,Germany,Pyrus communis,Pear,Trees
+264,Germany,Prunus domestica,Plum,Trees
+264,Germany,Rubus idaeus,Raspberry,Shrubs
+264,Germany,Sorbus aucuparia,Rowan,Trees
+264,Germany,Castanea sativa,Sweet Chestnut,Trees
+264,Germany,Prunus avium,Wild Cherry,Trees
+265,Germany,Malus domestica,Apple,Trees
+265,Germany,Juglans nigra,Black Walnut,Trees
+265,Germany,Cattle,Cattle,Animals
+265,Germany,Pyrus communis,Pear,Trees
+265,Germany,Prunus domestica,Plum,Trees
+265,Germany,Poultry,Poultry,Animals
+166,Germany,Sorbus torminalis,Wild Service Tree,Trees
+265,Germany,Castanea sativa,Sweet Chestnut,Trees
+265,Germany,Prunus avium,Wild Cherry,Trees
+266,Germany,Populus spp.,Poplar,Trees
+266,Germany,Poultry,Poultry,Animals
+267,Germany,Malus domestica,Apple,Trees
+267,Germany,Cornus mas,Cornelian Cherry,Shrubs
+267,Germany,Pyrus communis,Pear,Trees
+267,Germany,Prunus domestica,Plum,Trees
+267,Germany,Poultry,Poultry,Animals
+267,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+267,Germany,Prunus avium,Wild Cherry,Trees
+267,Germany,Salix spp.,Willow,Trees
+268,Germany,Malus domestica,Apple,Trees
+268,Germany,Juglans nigra,Black Walnut,Trees
+268,Germany,Vaccinium spp.,Blueberry,Shrubs
+268,Germany,Corylus avellana,European Hazel,Shrubs
+268,Germany,Pyrus communis,Pear,Trees
+268,Germany,Prunus domestica,Plum,Trees
+268,Germany,Rubus idaeus,Raspberry,Shrubs
+268,Germany,Prunus avium,Wild Cherry,Trees
+269,Germany,Juglans nigra,Black Walnut,Trees
+269,Germany,Sambucus nigra,Elder,Shrubs
+269,Germany,Malus sylvestris,European Crab Apple,Trees
+269,Germany,Acer spp.,Maple,Trees
+269,Germany,Prunus domestica,Plum,Trees
+269,Germany,Populus spp.,Poplar,Trees
+269,Germany,Poultry,Poultry,Animals
+269,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+269,Germany,Castanea sativa,Sweet Chestnut,Trees
+270,Germany,Populus spp.,Poplar,Trees
+270,Germany,Poultry,Poultry,Animals
+271,Germany,Poultry,Poultry,Animals
+271,Germany,Rubus idaeus,Raspberry,Shrubs
+272,Germany,Populus spp.,Poplar,Trees
+272,Germany,Poultry,Poultry,Animals
+273,Germany,Populus spp.,Poplar,Trees
+273,Germany,Poultry,Poultry,Animals
+350,Germany,Alnus spp.,Alder (general),Trees
+274,Germany,Malus domestica,Apple,Trees
+274,Germany,Juglans nigra,Black Walnut,Trees
+274,Germany,Cattle,Cattle,Animals
+274,Germany,Populus spp.,Poplar,Trees
+176,Germany,Sorbus torminalis,Wild Service Tree,Trees
+274,Germany,Castanea sativa,Sweet Chestnut,Trees
+274,Germany,Prunus avium,Wild Cherry,Trees
+177,Germany,Sorbus torminalis,Wild Service Tree,Trees
+275,Germany,Malus domestica,Apple,Trees
+275,Germany,Cattle,Cattle,Animals
+275,Germany,Pyrus communis,Pear,Trees
+275,Germany,Prunus domestica,Plum,Trees
+275,Germany,Prunus avium,Wild Cherry,Trees
+276,Germany,Malus domestica,Apple,Trees
+276,Germany,Juglans nigra,Black Walnut,Trees
+276,Germany,Poultry,Poultry,Animals
+277,Germany,Populus spp.,Poplar,Trees
+277,Germany,Poultry,Poultry,Animals
+278,Germany,Malus domestica,Apple,Trees
+278,Germany,Rosa canina,Dog Rose,Shrubs
+278,Germany,Cornus spp.,Dogwood,Shrubs
+278,Germany,Sambucus nigra,Elder,Shrubs
+278,Germany,Malus sylvestris,European Crab Apple,Trees
+278,Germany,Crataegus spp.,Hawthorn,Shrubs
+278,Germany,Acer spp.,Maple,Trees
+278,Germany,Pyrus communis,Pear,Trees
+278,Germany,Prunus domestica,Plum,Trees
+278,Germany,Populus spp.,Poplar,Trees
+278,Germany,Poultry,Poultry,Animals
+278,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+278,Germany,Castanea sativa,Sweet Chestnut,Trees
+278,Germany,Salix spp.,Willow,Trees
+279,Germany,Carpinus betulus,European Hornbeam,Trees
+279,Germany,Quercus spp.,Oak,Trees
+279,Germany,Pigs,Pigs,Animals
+280,Germany,Prunus spinosa,Blackthorn,Shrubs
+280,Germany,Cattle,Cattle,Animals
+280,Germany,Quercus spp.,Oak,Trees
+281,Germany,Populus spp.,Poplar,Trees
+281,Germany,Poultry,Poultry,Animals
+282,Germany,Populus spp.,Poplar,Trees
+282,Germany,Poultry,Poultry,Animals
+283,Germany,Malus domestica,Apple,Trees
+283,Germany,Juglans nigra,Black Walnut,Trees
+283,Germany,Rubus fruticosus,Blackberry,Shrubs
+283,Germany,Prunus spinosa,Blackthorn,Shrubs
+283,Germany,Vaccinium spp.,Blueberry,Shrubs
+283,Germany,Cornus mas,Cornelian Cherry,Shrubs
+283,Germany,Rosa canina,Dog Rose,Shrubs
+283,Germany,Sambucus nigra,Elder,Shrubs
+283,Germany,Corylus avellana,European Hazel,Shrubs
+283,Germany,Goats,Goats,Animals
+283,Germany,Crataegus spp.,Hawthorn,Shrubs
+283,Germany,Pyrus communis,Pear,Trees
+283,Germany,Prunus domestica,Plum,Trees
+283,Germany,Poultry,Poultry,Animals
+283,Germany,Rubus idaeus,Raspberry,Shrubs
+283,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+283,Germany,Sheep,Sheep,Animals
+283,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+283,Germany,Castanea sativa,Sweet Chestnut,Trees
+283,Germany,Prunus avium,Wild Cherry,Trees
+284,Germany,Populus spp.,Poplar,Trees
+284,Germany,Poultry,Poultry,Animals
+285,Germany,Populus spp.,Poplar,Trees
+285,Germany,Poultry,Poultry,Animals
+285,Germany,Salix spp.,Willow,Trees
+286,Germany,Populus spp.,Poplar,Trees
+286,Germany,Poultry,Poultry,Animals
+287,Germany,Populus spp.,Poplar,Trees
+287,Germany,Poultry,Poultry,Animals
+288,Germany,Juglans nigra,Black Walnut,Trees
+288,Germany,Goats,Goats,Animals
+178,Germany,Sorbus torminalis,Wild Service Tree,Trees
+288,Germany,Sheep,Sheep,Animals
+288,Germany,Prunus avium,Wild Cherry,Trees
+186,UK,Sorbus torminalis,Wild Service Tree,Trees
+289,Germany,Goats,Goats,Animals
+289,Germany,Pyrus communis,Pear,Trees
+289,Germany,Sheep,Sheep,Animals
+289,Germany,Prunus avium,Wild Cherry,Trees
+208,Belgium,Sorbus torminalis,Wild Service Tree,Trees
+290,Germany,Juglans nigra,Black Walnut,Trees
+290,Germany,Goats,Goats,Animals
+221,Belgium,Sorbus torminalis,Wild Service Tree,Trees
+290,Germany,Sheep,Sheep,Animals
+290,Germany,Prunus avium,Wild Cherry,Trees
+250,Germany,Sorbus torminalis,Wild Service Tree,Trees
+291,Germany,Malus domestica,Apple,Trees
+291,Germany,Sambucus nigra,Elder,Shrubs
+291,Germany,Goats,Goats,Animals
+291,Germany,Sheep,Sheep,Animals
+292,Germany,Populus spp.,Poplar,Trees
+292,Germany,Poultry,Poultry,Animals
+293,Germany,Populus spp.,Poplar,Trees
+293,Germany,Poultry,Poultry,Animals
+294,Germany,Quercus spp.,Oak,Trees
+294,Germany,Pigs,Pigs,Animals
+295,Germany,Populus spp.,Poplar,Trees
+295,Germany,Poultry,Poultry,Animals
+296,Germany,Malus domestica,Apple,Trees
+296,Germany,Juglans nigra,Black Walnut,Trees
+296,Germany,Rubus fruticosus,Blackberry,Shrubs
+296,Germany,Prunus spinosa,Blackthorn,Shrubs
+296,Germany,Rosa canina,Dog Rose,Shrubs
+296,Germany,Sambucus nigra,Elder,Shrubs
+296,Germany,Corylus avellana,European Hazel,Shrubs
+296,Germany,Crataegus spp.,Hawthorn,Shrubs
+296,Germany,Pyrus communis,Pear,Trees
+296,Germany,Prunus domestica,Plum,Trees
+296,Germany,Poultry,Poultry,Animals
+296,Germany,Rubus idaeus,Raspberry,Shrubs
+296,Germany,Prunus avium,Wild Cherry,Trees
+352,Germany,Alnus spp.,Alder (general),Trees
+354,Germany,Alnus spp.,Alder (general),Trees
+297,Germany,Malus domestica,Apple,Trees
+297,Germany,Juglans nigra,Black Walnut,Trees
+297,Germany,Rubus fruticosus,Blackberry,Shrubs
+297,Germany,Prunus spinosa,Blackthorn,Shrubs
+297,Germany,Rosa canina,Dog Rose,Shrubs
+297,Germany,Sambucus nigra,Elder,Shrubs
+297,Germany,Corylus avellana,European Hazel,Shrubs
+297,Germany,Crataegus spp.,Hawthorn,Shrubs
+297,Germany,Pyrus communis,Pear,Trees
+297,Germany,Rubus idaeus,Raspberry,Shrubs
+297,Germany,Prunus avium,Wild Cherry,Trees
+298,Germany,Malus domestica,Apple,Trees
+298,Germany,Juglans nigra,Black Walnut,Trees
+298,Germany,Rubus fruticosus,Blackberry,Shrubs
+298,Germany,Prunus spinosa,Blackthorn,Shrubs
+298,Germany,Rosa canina,Dog Rose,Shrubs
+298,Germany,Sambucus nigra,Elder,Shrubs
+298,Germany,Corylus avellana,European Hazel,Shrubs
+298,Germany,Crataegus spp.,Hawthorn,Shrubs
+298,Germany,Pyrus communis,Pear,Trees
+298,Germany,Poultry,Poultry,Animals
+298,Germany,Rubus idaeus,Raspberry,Shrubs
+299,Germany,Malus domestica,Apple,Trees
+299,Germany,Pyrus communis,Pear,Trees
+299,Germany,Poultry,Poultry,Animals
+357,Germany,Alnus spp.,Alder (general),Trees
+300,Germany,Malus domestica,Apple,Trees
+300,Germany,Juglans nigra,Black Walnut,Trees
+300,Germany,Rubus fruticosus,Blackberry,Shrubs
+300,Germany,Prunus spinosa,Blackthorn,Shrubs
+300,Germany,Rosa canina,Dog Rose,Shrubs
+300,Germany,Sambucus nigra,Elder,Shrubs
+300,Germany,Corylus avellana,European Hazel,Shrubs
+300,Germany,Crataegus spp.,Hawthorn,Shrubs
+300,Germany,Pyrus communis,Pear,Trees
+300,Germany,Prunus domestica,Plum,Trees
+300,Germany,Rubus idaeus,Raspberry,Shrubs
+300,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+300,Germany,Prunus avium,Wild Cherry,Trees
+301,Germany,Malus domestica,Apple,Trees
+301,Germany,Pyrus communis,Pear,Trees
+301,Germany,Poultry,Poultry,Animals
+302,Germany,Populus spp.,Poplar,Trees
+302,Germany,Poultry,Poultry,Animals
+303,UK,Fraxinus spp.,Ash,Trees
+303,UK,Barley,Barley,Forbs
+303,UK,Field grass,Field grass,Forbs
+303,UK,Goats,Goats,Animals
+303,UK,Populus spp.,Poplar,Trees
+303,UK,Sheep,Sheep,Animals
+304,UK,Malus domestica,Apple,Trees
+304,UK,Fraxinus spp.,Ash,Trees
+304,UK,Barley,Barley,Forbs
+304,UK,Prunus padus,Bird Cherry,Trees
+304,UK,Field grass,Field grass,Forbs
+304,UK,Goats,Goats,Animals
+304,UK,Avena sativa,Oats,Forbs
+304,UK,Pyrus communis,Pear,Trees
+304,UK,Prunus domestica,Plum,Trees
+304,UK,Populus spp.,Poplar,Trees
+304,UK,Sheep,Sheep,Animals
+304,UK,Castanea sativa,Sweet Chestnut,Trees
+349,Germany,Triticum aestivum,Common Wheat,Forbs
+304,UK,Salix spp.,Willow,Trees
+305,UK,Malus domestica,Apple,Trees
+305,UK,Crataegus monogyna,Common Hawthorn,Shrubs
+305,UK,Corylus avellana,European Hazel,Shrubs
+305,UK,Field grass,Field grass,Forbs
+305,UK,Prunus domestica,Plum,Trees
+305,UK,Salix spp.,Willow,Trees
+358,Germany,Alnus spp.,Alder (general),Trees
+306,UK,Malus domestica,Apple,Trees
+306,UK,Prunus armeniaca,Apricot,Trees
+306,UK,Morus nigra,Black Mulberry,Trees
+306,UK,Crataegus monogyna,Common Hawthorn,Shrubs
+306,UK,Field grass,Field grass,Forbs
+306,UK,Goats,Goats,Animals
+306,UK,Quercus spp.,Oak,Trees
+306,UK,Avena sativa,Oats,Forbs
+306,UK,Pyrus communis,Pear,Trees
+306,UK,Prunus domestica,Plum,Trees
+306,UK,Populus spp.,Poplar,Trees
+306,UK,Poultry,Poultry,Animals
+306,UK,Cydonia oblonga,Quince,Trees
+306,UK,Sorbus aucuparia,Rowan,Trees
+306,UK,Secale cereale,Rye,Forbs
+306,UK,Sheep,Sheep,Animals
+306,UK,Betula pendula,Silver Birch,Trees
+306,UK,Euonymus europaeus,Spindle,Shrubs
+306,UK,Castanea sativa,Sweet Chestnut,Trees
+306,UK,Citrus sinensis,Sweet Orange,Trees
+306,UK,Acer pseudoplatanus,Sycamore Maple,Trees
+306,UK,Vegetables,Vegetables,Forbs
+353,Germany,Triticum aestivum,Common Wheat,Forbs
+306,UK,Prunus avium,Wild Cherry,Trees
+306,UK,Salix spp.,Willow,Trees
+307,UK,Barley,Barley,Forbs
+307,UK,Populus nigra,Black Poplar,Trees
+307,UK,Juglans nigra,Black Walnut,Trees
+307,UK,Populus tremula,European Aspen,Trees
+307,UK,Corylus avellana,European Hazel,Shrubs
+307,UK,Carpinus betulus,European Hornbeam,Trees
+307,UK,Field beans,Field beans,Forbs
+307,UK,Field grass,Field grass,Forbs
+307,UK,Acer campestre,Field Maple,Trees
+307,UK,Salix caprea,Goat Willow,Shrubs
+307,UK,Goats,Goats,Animals
+307,UK,Ilex aquifolium,Holly,Shrubs
+307,UK,Quercus spp.,Oak,Trees
+307,UK,Avena sativa,Oats,Forbs
+307,UK,Sorbus aucuparia,Rowan,Trees
+307,UK,Sheep,Sheep,Animals
+307,UK,Tilia cordata,Small-leaved Lime,Trees
+307,UK,Spelt,Spelt,Forbs
+357,Germany,Triticum aestivum,Common Wheat,Forbs
+307,UK,Prunus avium,Wild Cherry,Trees
+251,Germany,Sorbus torminalis,Wild Service Tree,Trees
+57,Germany,Frangula alnus,Alder Buckthorn,Shrubs
+308,UK,Malus domestica,Apple,Trees
+308,UK,Fraxinus spp.,Ash,Trees
+308,UK,Juglans nigra,Black Walnut,Trees
+308,UK,Corylus avellana,European Hazel,Shrubs
+308,UK,Carpinus betulus,European Hornbeam,Trees
+308,UK,Field grass,Field grass,Forbs
+308,UK,Acer campestre,Field Maple,Trees
+308,UK,Goats,Goats,Animals
+308,UK,Grapevine,Grapevine,Forbs
+308,UK,Tilia spp.,Lime,Trees
+308,UK,Crataegus germanica,Medlar,Trees
+308,UK,Pyrus communis,Pear,Trees
+308,UK,Quercus robur,Pedunculate Oak,Trees
+308,UK,Prunus domestica,Plum,Trees
+308,UK,Solanum tuberosum,Potatoes,Forbs
+308,UK,Cydonia oblonga,Quince,Trees
+308,UK,Sheep,Sheep,Animals
+308,UK,Acer pseudoplatanus,Sycamore Maple,Trees
+308,UK,Vegetables,Vegetables,Forbs
+358,Germany,Triticum aestivum,Common Wheat,Forbs
+308,UK,Prunus avium,Wild Cherry,Trees
+308,UK,Salix spp.,Willow,Trees
+109,Germany,Frangula alnus,Alder Buckthorn,Shrubs
+309,UK,Malus domestica,Apple,Trees
+309,UK,Barley,Barley,Forbs
+309,UK,Juglans nigra,Black Walnut,Trees
+309,UK,Corylus avellana,European Hazel,Shrubs
+309,UK,Field beans,Field beans,Forbs
+309,UK,Field grass,Field grass,Forbs
+309,UK,Acer campestre,Field Maple,Trees
+309,UK,Goats,Goats,Animals
+309,UK,Quercus spp.,Oak,Trees
+309,UK,Pyrus communis,Pear,Trees
+309,UK,Prunus domestica,Plum,Trees
+309,UK,Populus spp.,Poplar,Trees
+309,UK,Poultry,Poultry,Animals
+309,UK,Secale cereale,Rye,Forbs
+309,UK,Sheep,Sheep,Animals
+309,UK,Betula pendula,Silver Birch,Trees
+309,UK,Tilia cordata,Small-leaved Lime,Trees
+309,UK,Spelt,Spelt,Forbs
+309,UK,Acer pseudoplatanus,Sycamore Maple,Trees
+309,UK,Vegetables,Vegetables,Forbs
+2,Portugal,Triticum spp.,Wheat (general),Forbs
+309,UK,Prunus avium,Wild Cherry,Trees
+310,Belgium,Prunus amygdalus,Almond,Trees
+310,Belgium,Malus domestica,Apple,Trees
+310,Belgium,Corylus avellana,European Hazel,Shrubs
+310,Belgium,Field grass,Field grass,Forbs
+310,Belgium,Goats,Goats,Animals
+310,Belgium,Pyrus communis,Pear,Trees
+310,Belgium,Juglans regia,Persian Walnut,Trees
+310,Belgium,Prunus domestica,Plum,Trees
+310,Belgium,Sheep,Sheep,Animals
+310,Belgium,Castanea sativa,Sweet Chestnut,Trees
+310,Belgium,Vegetables,Vegetables,Forbs
+311,Belgium,Malus domestica,Apple,Trees
+311,Belgium,Rubus fruticosus,Blackberry,Shrubs
+311,Belgium,Ficus carica,Common Fig,Trees
+311,Belgium,Ribes spp.,Currant,Shrubs
+311,Belgium,Sambucus nigra,Elder,Shrubs
+311,Belgium,Field grass,Field grass,Forbs
+311,Belgium,Goats,Goats,Animals
+311,Belgium,Pyrus communis,Pear,Trees
+311,Belgium,Prunus domestica,Plum,Trees
+311,Belgium,Poultry,Poultry,Animals
+311,Belgium,Sorbus aucuparia,Rowan,Trees
+311,Belgium,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+311,Belgium,Sheep,Sheep,Animals
+311,Belgium,Castanea sativa,Sweet Chestnut,Trees
+312,Belgium,Prunus amygdalus,Almond,Trees
+312,Belgium,Malus domestica,Apple,Trees
+312,Belgium,Morus nigra,Black Mulberry,Trees
+312,Belgium,Field grass,Field grass,Forbs
+312,Belgium,Goats,Goats,Animals
+312,Belgium,Crataegus germanica,Medlar,Trees
+312,Belgium,Juglans regia,Persian Walnut,Trees
+312,Belgium,Populus spp.,Poplar,Trees
+312,Belgium,Cydonia oblonga,Quince,Trees
+312,Belgium,Sheep,Sheep,Animals
+312,Belgium,Morus alba,White Mulberry,Trees
+312,Belgium,Prunus avium,Wild Cherry,Trees
+313,Belgium,Prunus amygdalus,Almond,Trees
+313,Belgium,Corn,Corn,Forbs
+313,Belgium,Field grass,Field grass,Forbs
+313,Belgium,Goats,Goats,Animals
+313,Belgium,Zea mays,Maize,Forbs
+313,Belgium,Juglans regia,Persian Walnut,Trees
+313,Belgium,Sheep,Sheep,Animals
+313,Belgium,Salix alba,White Willow,Trees
+314,Belgium,Malus domestica,Apple,Trees
+314,Belgium,Cattle,Cattle,Animals
+314,Belgium,Ficus carica,Common Fig,Trees
+314,Belgium,Ribes spp.,Currant,Shrubs
+314,Belgium,Field grass,Field grass,Forbs
+314,Belgium,Pyrus communis,Pear,Trees
+314,Belgium,Juglans regia,Persian Walnut,Trees
+314,Belgium,Prunus domestica,Plum,Trees
+314,Belgium,Rubus idaeus,Raspberry,Shrubs
+110,Germany,Frangula alnus,Alder Buckthorn,Shrubs
+315,Belgium,Malus domestica,Apple,Trees
+315,Belgium,Fraxinus spp.,Ash,Trees
+315,Belgium,Robinia pseudoacacia,Black Locust,Trees
+315,Belgium,Morus nigra,Black Mulberry,Trees
+315,Belgium,Cattle,Cattle,Animals
+315,Belgium,Sambucus nigra,Elder,Shrubs
+315,Belgium,Corylus avellana,European Hazel,Shrubs
+315,Belgium,Field grass,Field grass,Forbs
+315,Belgium,Salix caprea,Goat Willow,Shrubs
+315,Belgium,Crataegus germanica,Medlar,Trees
+315,Belgium,Quercus spp.,Oak,Trees
+315,Belgium,Pyrus communis,Pear,Trees
+315,Belgium,Juglans regia,Persian Walnut,Trees
+315,Belgium,Prunus domestica,Plum,Trees
+315,Belgium,Vegetables,Vegetables,Forbs
+315,Belgium,Morus alba,White Mulberry,Trees
+315,Belgium,Prunus avium,Wild Cherry,Trees
+316,Belgium,Vaccinium spp.,Blueberry,Shrubs
+316,Belgium,Ribes spp.,Currant,Shrubs
+316,Belgium,Carpinus betulus,European Hornbeam,Trees
+316,Belgium,Field grass,Field grass,Forbs
+316,Belgium,Goats,Goats,Animals
+316,Belgium,Juglans regia,Persian Walnut,Trees
+316,Belgium,Sheep,Sheep,Animals
+141,Germany,Frangula alnus,Alder Buckthorn,Shrubs
+317,Belgium,Malus domestica,Apple,Trees
+317,Belgium,Pyrus pyrifolia,Asian Pear,Trees
+317,Belgium,Prunus padus,Bird Cherry,Trees
+317,Belgium,Prunus serotina,Black Cherry,Shrubs
+317,Belgium,Morus nigra,Black Mulberry,Trees
+317,Belgium,Populus nigra,Black Poplar,Trees
+317,Belgium,Prunus spinosa,Blackthorn,Shrubs
+317,Belgium,Ficus carica,Common Fig,Trees
+317,Belgium,Ligustrum vulgare,Common Privet,Trees
+317,Belgium,Rosa canina,Dog Rose,Shrubs
+317,Belgium,Sambucus nigra,Elder,Shrubs
+317,Belgium,Fagus sylvatica,European Beech,Trees
+317,Belgium,Malus sylvestris,European Crab Apple,Trees
+317,Belgium,Corylus avellana,European Hazel,Shrubs
+317,Belgium,Ulmus laevis,European White Elm,Trees
+317,Belgium,Ulmus minor,Field Elm,Trees
+317,Belgium,Acer campestre,Field Maple,Trees
+317,Belgium,Salix caprea,Goat Willow,Shrubs
+317,Belgium,Viburnum opulus,Guelder-rose,Shrubs
+317,Belgium,Ilex aquifolium,Holly,Shrubs
+317,Belgium,Tilia spp.,Lime,Trees
+317,Belgium,Crataegus germanica,Medlar,Trees
+317,Belgium,Pyrus communis,Pear,Trees
+317,Belgium,Juglans regia,Persian Walnut,Trees
+317,Belgium,Diospyros kaki,Persimmon,Trees
+317,Belgium,Prunus domestica,Plum,Trees
+317,Belgium,Cydonia oblonga,Quince,Trees
+317,Belgium,Sorbus aucuparia,Rowan,Trees
+259,Germany,Sorbus torminalis,Wild Service Tree,Trees
+317,Belgium,Tilia cordata,Small-leaved Lime,Trees
+317,Belgium,Euonymus europaeus,Spindle,Trees
+317,Belgium,Arbutus unedo,Strawberry Tree,Shrubs
+317,Belgium,Corylus colurna,Turkish Hazel,Trees
+317,Belgium,Viburnum lantana,Wayfaring-tree,Shrubs
+317,Belgium,Morus alba,White Mulberry,Trees
+317,Belgium,Prunus avium,Wild Cherry,Trees
+318,Belgium,Malus domestica,Apple,Trees
+318,Belgium,Cattle,Cattle,Animals
+318,Belgium,Ribes spp.,Currant,Shrubs
+318,Belgium,Field grass,Field grass,Forbs
+318,Belgium,Pyrus communis,Pear,Trees
+318,Belgium,Juglans regia,Persian Walnut,Trees
+318,Belgium,Prunus domestica,Plum,Trees
+318,Belgium,Rubus idaeus,Raspberry,Shrubs
+318,Belgium,Vegetables,Vegetables,Forbs
+319,Belgium,Prunus amygdalus,Almond,Trees
+319,Belgium,Malus domestica,Apple,Trees
+319,Belgium,Rosa canina,Dog Rose,Shrubs
+319,Belgium,Sambucus nigra,Elder,Shrubs
+319,Belgium,Corylus avellana,European Hazel,Shrubs
+319,Belgium,Field grass,Field grass,Forbs
+319,Belgium,Goats,Goats,Animals
+319,Belgium,Crataegus spp.,Hawthorn,Shrubs
+319,Belgium,Pyrus communis,Pear,Trees
+319,Belgium,Juglans regia,Persian Walnut,Trees
+319,Belgium,Prunus domestica,Plum,Trees
+319,Belgium,Poultry,Poultry,Animals
+319,Belgium,Cydonia oblonga,Quince,Trees
+319,Belgium,Sorbus aucuparia,Rowan,Trees
+319,Belgium,Sheep,Sheep,Animals
+319,Belgium,Vegetables,Vegetables,Forbs
+319,Belgium,Prunus avium,Wild Cherry,Trees
+320,Belgium,Ribes spp.,Currant,Shrubs
+320,Belgium,Salix caprea,Goat Willow,Shrubs
+320,Belgium,Goats,Goats,Animals
+320,Belgium,Rubus idaeus,Raspberry,Shrubs
+320,Belgium,Sheep,Sheep,Animals
+321,Belgium,Malus domestica,Apple,Trees
+321,Belgium,Morus nigra,Black Mulberry,Trees
+321,Belgium,Pyrus communis,Pear,Trees
+321,Belgium,Juglans regia,Persian Walnut,Trees
+321,Belgium,Poultry,Poultry,Animals
+321,Belgium,Cydonia oblonga,Quince,Trees
+321,Belgium,Prunus cerasus,Sour Cherry,Trees
+321,Belgium,Morus alba,White Mulberry,Trees
+321,Belgium,Prunus avium,Wild Cherry,Trees
+322,Belgium,Malus domestica,Apple,Trees
+322,Belgium,Ficus carica,Common Fig,Trees
+322,Belgium,Corn,Corn,Forbs
+322,Belgium,Field grass,Field grass,Forbs
+322,Belgium,Goats,Goats,Animals
+322,Belgium,Zea mays,Maize,Forbs
+322,Belgium,Pyrus communis,Pear,Trees
+322,Belgium,Populus spp.,Poplar,Trees
+322,Belgium,Cydonia oblonga,Quince,Trees
+322,Belgium,Sheep,Sheep,Animals
+5,Germany,Triticum spp.,Wheat (general),Forbs
+322,Belgium,Prunus avium,Wild Cherry,Trees
+323,Belgium,Malus domestica,Apple,Trees
+323,Belgium,Cattle,Cattle,Animals
+323,Belgium,Field grass,Field grass,Forbs
+323,Belgium,Pyrus communis,Pear,Trees
+323,Belgium,Prunus domestica,Plum,Trees
+323,Belgium,Populus spp.,Poplar,Trees
+324,Italy,Goats,Goats,Animals
+324,Italy,Olea europaea,Olive,Trees
+324,Italy,Sheep,Sheep,Animals
+325,Italy,Cattle,Cattle,Animals
+325,Italy,Pigs,Pigs,Animals
+325,Italy,Poultry,Poultry,Animals
+325,Italy,Quercus cerris,Turkey Oak,Trees
+326,Italy,Olea europaea,Olive,Trees
+326,Italy,Poultry,Poultry,Animals
+327,Italy,Goats,Goats,Animals
+327,Italy,Olea europaea,Olive,Trees
+327,Italy,Poultry,Poultry,Animals
+327,Italy,Sheep,Sheep,Animals
+328,Italy,Goats,Goats,Animals
+328,Italy,Olea europaea,Olive,Trees
+328,Italy,Sheep,Sheep,Animals
+151,Germany,Frangula alnus,Alder Buckthorn,Shrubs
+329,Germany,Malus domestica,Apple,Trees
+329,Germany,Robinia pseudoacacia,Black Locust,Trees
+329,Germany,Juglans nigra,Black Walnut,Trees
+329,Germany,Rubus fruticosus,Blackberry,Shrubs
+329,Germany,Cornus mas,Cornelian Cherry,Shrubs
+329,Germany,Sambucus nigra,Elder,Shrubs
+329,Germany,Corylus avellana,European Hazel,Shrubs
+329,Germany,Field grass,Field grass,Forbs
+329,Germany,Goats,Goats,Animals
+329,Germany,Prunus domestica,Plum,Trees
+329,Germany,Populus spp.,Poplar,Trees
+329,Germany,Solanum tuberosum,Potatoes,Forbs
+329,Germany,Rubus idaeus,Raspberry,Shrubs
+329,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+329,Germany,Sheep,Sheep,Animals
+329,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+329,Germany,Vegetables,Vegetables,Forbs
+329,Germany,Prunus avium,Wild Cherry,Trees
+329,Germany,Salix spp.,Willow,Trees
+330,Germany,Betula spp.,Birch,Trees
+330,Germany,Field grass,Field grass,Forbs
+330,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+196,Belgium,Frangula alnus,Alder Buckthorn,Shrubs
+331,Germany,Malus domestica,Apple,Trees
+331,Germany,Juglans nigra,Black Walnut,Trees
+331,Germany,Cornus mas,Cornelian Cherry,Shrubs
+331,Germany,Rosa canina,Dog Rose,Shrubs
+331,Germany,Cornus spp.,Dogwood,Shrubs
+331,Germany,Corylus avellana,European Hazel,Shrubs
+331,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+331,Germany,Crataegus spp.,Hawthorn,Shrubs
+331,Germany,Pyrus communis,Pear,Trees
+331,Germany,Prunus domestica,Plum,Trees
+331,Germany,Rubus idaeus,Raspberry,Shrubs
+331,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+331,Germany,Castanea sativa,Sweet Chestnut,Trees
+331,Germany,Vegetables,Vegetables,Forbs
+331,Germany,Prunus avium,Wild Cherry,Trees
+332,Germany,Populus spp.,Poplar,Trees
+332,Germany,Solanum tuberosum,Potatoes,Forbs
+332,Germany,Poultry,Poultry,Animals
+332,Germany,Salix spp.,Willow,Trees
+197,Belgium,Frangula alnus,Alder Buckthorn,Shrubs
+333,Germany,Malus domestica,Apple,Trees
+333,Germany,Juglans nigra,Black Walnut,Trees
+333,Germany,Prunus spinosa,Blackthorn,Shrubs
+333,Germany,Vaccinium spp.,Blueberry,Shrubs
+333,Germany,Cornus mas,Cornelian Cherry,Shrubs
+333,Germany,Cornus spp.,Dogwood,Shrubs
+333,Germany,Corylus avellana,European Hazel,Shrubs
+333,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+333,Germany,Crataegus spp.,Hawthorn,Shrubs
+333,Germany,Acer spp.,Maple,Trees
+333,Germany,Pyrus communis,Pear,Trees
+333,Germany,Prunus domestica,Plum,Trees
+333,Germany,Poultry,Poultry,Animals
+333,Germany,Rubus idaeus,Raspberry,Shrubs
+333,Germany,Sorbus aucuparia,Rowan,Trees
+333,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+333,Germany,Vegetables,Vegetables,Forbs
+333,Germany,Prunus avium,Wild Cherry,Trees
+334,Germany,Malus domestica,Apple,Trees
+334,Germany,Juglans nigra,Black Walnut,Trees
+334,Germany,Corylus avellana,European Hazel,Shrubs
+334,Germany,Pyrus communis,Pear,Trees
+334,Germany,Populus spp.,Poplar,Trees
+334,Germany,Poultry,Poultry,Animals
+334,Germany,Castanea sativa,Sweet Chestnut,Trees
+334,Germany,Salix spp.,Willow,Trees
+335,Germany,Juglans nigra,Black Walnut,Trees
+335,Germany,Field grass,Field grass,Forbs
+335,Germany,Populus spp.,Poplar,Trees
+335,Germany,Poultry,Poultry,Animals
+336,Germany,Juglans nigra,Black Walnut,Trees
+336,Germany,Corn,Corn,Forbs
+336,Germany,Field grass,Field grass,Forbs
+336,Germany,Grain peas,Grain peas,Forbs
+336,Germany,Zea mays,Maize,Forbs
+336,Germany,Solanum tuberosum,Potatoes,Forbs
+336,Germany,Poultry,Poultry,Animals
+336,Germany,Secale cereale,Rye,Forbs
+336,Germany,Vegetables,Vegetables,Forbs
+7,UK,Triticum spp.,Wheat (general),Forbs
+337,Germany,Corn,Corn,Forbs
+337,Germany,Zea mays,Maize,Forbs
+337,Germany,Populus spp.,Poplar,Trees
+337,Germany,Poultry,Poultry,Animals
+274,Germany,Sorbus torminalis,Wild Service Tree,Trees
+338,Germany,Juglans nigra,Black Walnut,Trees
+338,Germany,Field grass,Field grass,Forbs
+338,Germany,Poultry,Poultry,Animals
+338,Germany,Castanea sativa,Sweet Chestnut,Trees
+338,Germany,Vegetables,Vegetables,Forbs
+201,Belgium,Frangula alnus,Alder Buckthorn,Shrubs
+339,Germany,Betula spp.,Birch,Trees
+339,Germany,Juglans nigra,Black Walnut,Trees
+339,Germany,Cornus mas,Cornelian Cherry,Shrubs
+339,Germany,Rosa canina,Dog Rose,Shrubs
+339,Germany,Acer spp.,Maple,Trees
+339,Germany,Pyrus communis,Pear,Trees
+339,Germany,Populus spp.,Poplar,Trees
+339,Germany,Poultry,Poultry,Animals
+339,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+340,Germany,Cattle,Cattle,Animals
+340,Germany,Populus spp.,Poplar,Trees
+340,Germany,Poultry,Poultry,Animals
+211,Belgium,Frangula alnus,Alder Buckthorn,Shrubs
+341,Germany,Medicago sativa,Alfalfa,Forbs
+341,Germany,Robinia pseudoacacia,Black Locust,Trees
+341,Germany,Cattle,Cattle,Animals
+341,Germany,Corn,Corn,Forbs
+341,Germany,Sambucus nigra,Elder,Shrubs
+341,Germany,Zea mays,Maize,Forbs
+341,Germany,Acer spp.,Maple,Trees
+341,Germany,Avena sativa,Oats,Forbs
+341,Germany,Pyrus communis,Pear,Trees
+341,Germany,Populus spp.,Poplar,Trees
+341,Germany,Poultry,Poultry,Animals
+341,Germany,Secale cereale,Rye,Forbs
+341,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+341,Germany,Castanea sativa,Sweet Chestnut,Trees
+13,Greece,Triticum spp.,Wheat (general),Forbs
+341,Germany,Salix spp.,Willow,Trees
+342,Germany,Malus domestica,Apple,Trees
+342,Germany,Barley,Barley,Forbs
+342,Germany,Rubus fruticosus,Blackberry,Shrubs
+342,Germany,Sambucus nigra,Elder,Shrubs
+342,Germany,Grain peas,Grain peas,Forbs
+342,Germany,Crataegus spp.,Hawthorn,Shrubs
+342,Germany,Avena sativa,Oats,Forbs
+342,Germany,Pyrus communis,Pear,Trees
+342,Germany,Prunus domestica,Plum,Trees
+342,Germany,Populus spp.,Poplar,Trees
+342,Germany,Solanum tuberosum,Potatoes,Forbs
+342,Germany,Poultry,Poultry,Animals
+342,Germany,Rubus idaeus,Raspberry,Shrubs
+342,Germany,Secale cereale,Rye,Forbs
+342,Germany,Vegetables,Vegetables,Forbs
+15,Greece,Triticum spp.,Wheat (general),Forbs
+342,Germany,Prunus avium,Wild Cherry,Trees
+343,Germany,Malus domestica,Apple,Trees
+343,Germany,Cornus mas,Cornelian Cherry,Shrubs
+343,Germany,Corylus avellana,European Hazel,Shrubs
+343,Germany,Prunus domestica,Plum,Trees
+343,Germany,Poultry,Poultry,Animals
+288,Germany,Sorbus torminalis,Wild Service Tree,Trees
+343,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+344,Germany,Corn,Corn,Forbs
+344,Germany,Zea mays,Maize,Forbs
+344,Germany,Populus spp.,Poplar,Trees
+344,Germany,Poultry,Poultry,Animals
+289,Germany,Sorbus torminalis,Wild Service Tree,Trees
+345,Germany,Malus domestica,Apple,Trees
+345,Germany,Cornus mas,Cornelian Cherry,Shrubs
+345,Germany,Corylus avellana,European Hazel,Shrubs
+345,Germany,Prunus domestica,Plum,Trees
+345,Germany,Poultry,Poultry,Animals
+290,Germany,Sorbus torminalis,Wild Service Tree,Trees
+345,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+346,Germany,Malus domestica,Apple,Trees
+346,Germany,Goats,Goats,Animals
+346,Germany,Poultry,Poultry,Animals
+346,Germany,Sorbus aucuparia,Rowan,Trees
+307,UK,Sorbus torminalis,Wild Service Tree,Trees
+346,Germany,Sheep,Sheep,Animals
+346,Germany,Castanea sativa,Sweet Chestnut,Trees
+346,Germany,Vegetables,Vegetables,Forbs
+337,Germany,Sorbus torminalis,Wild Service Tree,Trees
+347,Germany,Malus domestica,Apple,Trees
+347,Germany,Corylus avellana,European Hazel,Shrubs
+347,Germany,Carpinus betulus,European Hornbeam,Trees
+347,Germany,Goats,Goats,Animals
+347,Germany,Pyrus communis,Pear,Trees
+347,Germany,Prunus domestica,Plum,Trees
+347,Germany,Solanum tuberosum,Potatoes,Forbs
+347,Germany,Sheep,Sheep,Animals
+347,Germany,Vegetables,Vegetables,Forbs
+348,Germany,Cornus spp.,Dogwood,Shrubs
+348,Germany,Sambucus nigra,Elder,Shrubs
+348,Germany,Malus sylvestris,European Crab Apple,Trees
+348,Germany,Malus sylvestris,European Crab Apple,Trees
+348,Germany,Corylus avellana,European Hazel,Shrubs
+348,Germany,Corylus avellana,European Hazel,Shrubs
+348,Germany,Carpinus betulus,European Hornbeam,Trees
+348,Germany,Carpinus betulus,European Hornbeam,Trees
+348,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+348,Germany,Goats,Goats,Animals
+348,Germany,Crataegus spp.,Hawthorn,Shrubs
+348,Germany,Pyrus communis,Pear,Trees
+348,Germany,Pyrus communis,Pear,Trees
+348,Germany,Pyrus communis,Pear,Trees
+348,Germany,Pyrus communis,Pear,Trees
+348,Germany,Poultry,Poultry,Animals
+348,Germany,Sheep,Sheep,Animals
+348,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+348,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+348,Germany,Vegetables,Vegetables,Forbs
+344,Germany,Sorbus torminalis,Wild Service Tree,Trees
+346,Germany,Sorbus torminalis,Wild Service Tree,Trees
+348,Germany,Salix spp.,Willow,Trees
+348,Germany,Salix spp.,Willow,Trees
+225,Belgium,Frangula alnus,Alder Buckthorn,Shrubs
+349,Germany,Barley,Barley,Forbs
+349,Germany,Betula spp.,Birch,Trees
+349,Germany,Robinia pseudoacacia,Black Locust,Trees
+349,Germany,Juglans nigra,Black Walnut,Trees
+349,Germany,Cattle,Cattle,Animals
+349,Germany,Acer spp.,Maple,Trees
+349,Germany,Pyrus communis,Pear,Trees
+349,Germany,Populus spp.,Poplar,Trees
+349,Germany,Poultry,Poultry,Animals
+349,Germany,Sorbus aucuparia,Rowan,Trees
+349,Germany,Secale cereale,Rye,Forbs
+19,UK,Triticum spp.,Wheat (general),Forbs
+349,Germany,Salix spp.,Willow,Trees
+231,Italy,Frangula alnus,Alder Buckthorn,Trees
+250,Germany,Frangula alnus,Alder Buckthorn,Shrubs
+350,Germany,Prunus padus,Bird Cherry,Trees
+350,Germany,Juglans nigra,Black Walnut,Trees
+350,Germany,Rubus fruticosus,Blackberry,Shrubs
+350,Germany,Prunus spinosa,Blackthorn,Shrubs
+350,Germany,Cornus mas,Cornelian Cherry,Shrubs
+350,Germany,Rosa canina,Dog Rose,Shrubs
+350,Germany,Cornus spp.,Dogwood,Shrubs
+350,Germany,Sambucus nigra,Elder,Shrubs
+350,Germany,Malus sylvestris,European Crab Apple,Trees
+350,Germany,Corylus avellana,European Hazel,Shrubs
+350,Germany,Carpinus betulus,European Hornbeam,Trees
+350,Germany,Lonicera xylosteum,Fly Honeysuckle,Shrubs
+350,Germany,Crataegus spp.,Hawthorn,Shrubs
+350,Germany,Quercus spp.,Oak,Trees
+350,Germany,Pyrus communis,Pear,Trees
+350,Germany,Pyrus communis,Pear,Trees
+350,Germany,Prunus domestica,Plum,Trees
+350,Germany,Rubus idaeus,Raspberry,Shrubs
+350,Germany,Sorbus aucuparia,Rowan,Trees
+350,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+348,Germany,Sorbus torminalis,Wild Service Tree,Trees
+350,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+350,Germany,Castanea sativa,Sweet Chestnut,Trees
+350,Germany,Sorbus aria,Whitebeam,Trees
+348,Germany,Sorbus torminalis,Wild Service Tree,Trees
+350,Germany,Salix spp.,Willow,Trees
+351,Germany,Juglans nigra,Black Walnut,Trees
+351,Germany,Malus sylvestris,European Crab Apple,Trees
+351,Germany,Goats,Goats,Animals
+351,Germany,Pyrus communis,Pear,Trees
+351,Germany,Populus spp.,Poplar,Trees
+351,Germany,Sheep,Sheep,Animals
+350,Germany,Sorbus torminalis,Wild Service Tree,Trees
+297,Germany,Frangula alnus,Alder Buckthorn,Shrubs
+352,Germany,Robinia pseudoacacia,Black Locust,Trees
+352,Germany,Juglans nigra,Black Walnut,Trees
+352,Germany,Cattle,Cattle,Animals
+352,Germany,Cornus mas,Cornelian Cherry,Shrubs
+352,Germany,Carpinus betulus,European Hornbeam,Trees
+352,Germany,Acer spp.,Maple,Trees
+352,Germany,Populus spp.,Poplar,Trees
+352,Germany,Poultry,Poultry,Animals
+352,Germany,Sorbus aucuparia,Rowan,Trees
+352,Germany,Hippophae rhamnoides,Sea-buckthorn,Shrubs
+351,Germany,Sorbus torminalis,Wild Service Tree,Trees
+352,Germany,Sorbus torminalis,Wild Service Tree,Trees
+352,Germany,Salix spp.,Willow,Trees
+353,Germany,Medicago sativa,Alfalfa,Forbs
+353,Germany,Barley,Barley,Forbs
+353,Germany,Cattle,Cattle,Animals
+353,Germany,Field grass,Field grass,Forbs
+353,Germany,Grain peas,Grain peas,Forbs
+353,Germany,Avena sativa,Oats,Forbs
+353,Germany,Populus spp.,Poplar,Trees
+20,Germany,Triticum spp.,Wheat (general),Forbs
+317,Belgium,Frangula alnus,Alder Buckthorn,Shrubs
+354,Germany,Cattle,Cattle,Animals
+354,Germany,Populus spp.,Poplar,Trees
+354,Germany,Poultry,Poultry,Animals
+354,Germany,Salix spp.,Willow,Trees
+355,Germany,Rubus fruticosus,Blackberry,Shrubs
+355,Germany,Sambucus nigra,Elder,Shrubs
+355,Germany,Quercus spp.,Oak,Trees
+355,Germany,Pigs,Pigs,Animals
+355,Germany,Sorbus aucuparia,Rowan,Trees
+356,Germany,Juglans nigra,Black Walnut,Trees
+356,Germany,Cattle,Cattle,Animals
+356,Germany,Corylus avellana,European Hazel,Shrubs
+356,Germany,Goats,Goats,Animals
+356,Germany,Pigs,Pigs,Animals
+356,Germany,Solanum tuberosum,Potatoes,Forbs
+356,Germany,Sheep,Sheep,Animals
+356,Germany,Amelanchier lamarckii,Snowy Mespilus,Shrubs
+356,Germany,Castanea sativa,Sweet Chestnut,Trees
+331,Germany,Frangula alnus,Alder Buckthorn,Shrubs
+357,Germany,Betula spp.,Birch,Trees
+357,Germany,Juglans nigra,Black Walnut,Trees
+357,Germany,Cattle,Cattle,Animals
+357,Germany,Cornus spp.,Dogwood,Shrubs
+357,Germany,Sambucus nigra,Elder,Shrubs
+357,Germany,Carpinus betulus,European Hornbeam,Trees
+357,Germany,Crataegus spp.,Hawthorn,Shrubs
+357,Germany,Avena sativa,Oats,Forbs
+357,Germany,Pyrus communis,Pear,Trees
+357,Germany,Populus spp.,Poplar,Trees
+357,Germany,Poultry,Poultry,Animals
+357,Germany,Secale cereale,Rye,Forbs
+21,Italy,Triticum spp.,Wheat (general),Forbs
+357,Germany,Sorbus aria,Whitebeam,Trees
+357,Germany,Salix spp.,Willow,Trees
+350,Germany,Frangula alnus,Alder Buckthorn,Shrubs
+358,Germany,Betula spp.,Birch,Trees
+358,Germany,Juglans nigra,Black Walnut,Trees
+358,Germany,Cattle,Cattle,Animals
+358,Germany,Cornus spp.,Dogwood,Shrubs
+358,Germany,Sambucus nigra,Elder,Shrubs
+358,Germany,Ulmus spp.,Elm,Trees
+358,Germany,Corylus avellana,European Hazel,Shrubs
+358,Germany,Crataegus spp.,Hawthorn,Shrubs
+358,Germany,Acer spp.,Maple,Trees
+358,Germany,Avena sativa,Oats,Forbs
+358,Germany,Pyrus communis,Pear,Trees
+358,Germany,Populus spp.,Poplar,Trees
+358,Germany,Poultry,Poultry,Animals
+358,Germany,Secale cereale,Rye,Forbs
+22,Greece,Triticum spp.,Wheat (general),Forbs
+358,Germany,Prunus avium,Wild Cherry,Trees
+,,,,
