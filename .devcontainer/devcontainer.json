@@ -6,5 +6,12 @@
       "onAutoForward": "openPreview"
     }
   },
-  "postCreateCommand": "R -e 'install.packages(c(\"shiny\", \"dplyr\", \"igraph\", \"visNetwork\", \"leaflet\", \"shinyjs\"))'"
+  "postCreateCommand": "R -e 'install.packages(c(\"shiny\", \"dplyr\", \"igraph\", \"visNetwork\", \"leaflet\", \"shinyjs\"))'",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "REditorSupport.r"
+      ]
+    }
+  }
 }
